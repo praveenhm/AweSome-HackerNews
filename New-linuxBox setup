@@ -1,4 +1,3 @@
-
 Below are the things to set up in new CentOS 6.4 box.
 
 Download the os from the stanford mirror DVD1.iso image
@@ -13,6 +12,10 @@ Software:
 -STS 3.2 -> juno 4.2.2
  -configure maven path
 
+
+To install cloudera, disable seLinux,
+vi /etc/selinux/config
+selinux=enforcing to disable
 
 
 # .bashrc
