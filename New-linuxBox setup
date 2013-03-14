@@ -12,14 +12,15 @@ Software:
 -STS 3.2 -> juno 4.2.2
  -configure maven path
 
+edit /etc/hosts
+127.0.0.1 linuxpc
+127.0.0.1 localhost
 
 To install cloudera, disable seLinux,
 vi /etc/selinux/config
 selinux=enforcing to disable
 
-
 # .bashrc
-
 export JAVA_HOME="/usr/java/default"
 export PATH=$PATH:/home/praveen/mydev/springsource/apache-maven-3.0.4/bin
 
