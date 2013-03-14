@@ -19,6 +19,9 @@ edit /etc/hosts
 To install cloudera, disable seLinux,
 vi /etc/selinux/config
 selinux=enforcing to disable
+cloudera: admin/admin
+http://linuxpc:7180/cmf/services/status
+
 
 # .bashrc
 export JAVA_HOME="/usr/java/default"
