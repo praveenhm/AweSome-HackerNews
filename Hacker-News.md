@@ -1,42 +1,37 @@
-Javascript:
-  Using meteor links,
-  http://themeteorbook.com/
+
+##### Javascript:
+  [Useful meteor links](http://themeteorbook.com/)
 
 
-Startup:
-  Integrating web services,
-  https://zapier.com/zapbook/
-
-  Startup Trap:
-  http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html
+##### Startup:
+   - [Integrating web services,](https://zapier.com/zapbook/)
+   - [Startup Trap:](http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
 
 
-Building iOS Apps,
-building a sample airBNB app in 16hrs,
-https://blog.stackmob.com/2013/03/build-an-airbnb-clone-in-a-day/
+##### Building iOS Apps,
+ - [building a sample airBNB app in 16hrs,](https://blog.stackmob.com/2013/03/build-an-airbnb-clone-in-a-day/)
 
-About CEO:
-  Things about I knew 2 years ago as founder,
-  https://speakerdeck.com/giladvdn/ten-things-about-being-a-founder-i-wish-i-knew-two-years-ago?x=1
+##### About CEO:
+  - [Things about I knew 2 years ago as founder,](https://speakerdeck.com/giladvdn/ten-things-about-being-a-founder-i-wish-i-knew-two-years-ago?x=1)
 
-Hacking:
-  Meet the men who spy on women through their webcams
-  http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/
+##### Hacking:
+  - [Meet the men who spy on women through their webcams]
+  (http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)
 
-CheatSheet:
-[Complete explaination of various language cheat sheet](http://overapi.com/)
+##### CheatSheet:
+ - [Complete explaination of various language cheat sheet](http://overapi.com/)
 
 
-Hadoop Related:
-  Brains behind facebook hadoop,
-  http://www.wired.com/wiredenterprise/2013/02/facebook-data-team/
+##### Hadoop Related:
+  - [Brains behind facebook hadoop,]
+  (http://www.wired.com/wiredenterprise/2013/02/facebook-data-team/)
 
-  Hadoop UI
-  http://www.pentaho.com/
+  - [Hadoop UI]
+  (http://www.pentaho.com/)
 
-About Clean Architecture:
-  http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html
+##### About Clean Architecture:
+  - [clean](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-Java/J2EE:
- j2ee best practices 
- http://gordondickens.com/wordpress/2012/07/03/enterprise-spring-best-practices-part-1-project-config/
+##### Java/J2EE:
+ - [j2ee best practices]
+ (http://gordondickens.com/wordpress/2012/07/03/enterprise-spring-best-practices-part-1-project-config/)
