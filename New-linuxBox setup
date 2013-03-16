@@ -21,6 +21,9 @@ vi /etc/selinux/config
 selinux=enforcing to disable
 cloudera: admin/admin
 http://linuxpc:7180/cmf/services/status
+Edit /var/lib/pgsql/data/pg_hba.conf
+  host hue hue 0.0.0.0/0 md5
+
 
 
 # .bashrc
