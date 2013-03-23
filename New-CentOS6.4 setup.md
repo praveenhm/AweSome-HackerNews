@@ -39,7 +39,7 @@ edit /etc/hosts
 export JAVA_HOME="/usr/java/default"
 export PATH=$PATH:/home/praveen/mydev/springsource/apache-maven-3.0.4/bin
 
-# To mount ntfs, follow below steps
+#### To mount ntfs, follow below steps
 First you need to install the Extra Packages for Enterprise Linux (EPEL) repository, 
 which is done by typing the following into the shell as root assuming you are using 64bit CentOS 6.4:
 
