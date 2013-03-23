@@ -30,4 +30,17 @@ Edit /var/lib/pgsql/data/pg_hba.conf
 export JAVA_HOME="/usr/java/default"
 export PATH=$PATH:/home/praveen/mydev/springsource/apache-maven-3.0.4/bin
 
+# To mount ntfs, follow below steps
+First you need to install the Extra Packages for Enterprise Linux (EPEL) repository, 
+which is done by typing the following into the shell as root assuming you are using 64bit CentOS 6.4:
+
+rpm -Uvh http://download.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-7.noarch.rpm
+
+
+  Retrieving http://download.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
+  warning: /var/tmp/rpm-tmp.93jDQT: Header V3 RSA/SHA256 Signature, key ID 0608b895: NOKEY
+  Preparing...                ########################################### [100%]
+     1:epel-release           ########################################### [100%]
+
+
 
