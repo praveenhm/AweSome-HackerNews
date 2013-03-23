@@ -1,35 +1,38 @@
  
-### Follow the steps given below to setup a new CentOS 6.4 box.
+### Below are the steps to setup a new CentOS 6.4 box.
 
+Can't partition problem:
+Basically, you can have 4 "real" partitions on a disk; to get more, you make up to 3 Primary partitions, 
+then 1 "extended" partition that has multiple "logical" partitions inside of it.
 
-Basically, you can have 4 "real" partitions on a disk; to get more, you make up to 3 Primary partitions, then 1 "extended" partition that has multiple "logical" partitions inside of it.
-when setting up on windows m/c with a shared partition, make sure there are only 4 master partitons, otherwise 
-we can format the rest of partition.
-
-Download the os from the stanford mirror DVD1.iso image
+Download the disk image from the stanford mirror DVD1.iso image
 Use standard partition & Development image.
-After instalation, do not diable the Bluetooth or wireless, it is a messed up. you need to re-install the 
-Networkmanger-gnome applet again.
+After instalation, do not disable the Bluetooth or wireless, it's a messed up. you need to un-install and 
+re-install the Networkmanger-gnome applet again.
 
 Software:
--Chrome,
--Adobe Flash,
--uninstall the openJdk & install oracle Jdk.
--STS 3.2 -> juno 4.2.2
- -configure maven path
+ -Chrome,
+ -Adobe Flash,
+ -uninstall the openJdk 6 first & then install oracle Jdk 7.
+ -STS 3.2 -> juno 4.2.2
+  -configure maven path
 
 edit /etc/hosts
-127.0.0.1 linuxpc
-127.0.0.1 localhost
+ 127.0.0.1 linuxpc
+ 127.0.0.1 localhost
 
-To install cloudera, disable seLinux,
-vi /etc/selinux/config
-selinux=enforcing to disable
-cloudera: admin/admin
-http://linuxpc:7180/cmf/services/status
-Edit /var/lib/pgsql/data/pg_hba.conf
-  host hue hue 0.0.0.0/0 md5
-
+###To install cloudera, 
+  disable seLinux,
+   vi /etc/selinux/config
+   selinux=enforcing to disable
+   
+   cloudera: admin/admin
+   http://linuxpc:7180/cmf/services/status
+   Edit /var/lib/pgsql/data/pg_hba.conf
+     host hue hue 0.0.0.0/0 md5
+   Database:hive, 
+   username:hive,
+   pass : PBBpMFZ70y
 
 
 ###### .bashrc
