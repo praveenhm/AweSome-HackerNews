@@ -1,6 +1,8 @@
  
 ### Follow the steps given below to setup a new CentOS 6.4 box.
- 
+
+
+Basically, you can have 4 "real" partitions on a disk; to get more, you make up to 3 Primary partitions, then 1 "extended" partition that has multiple "logical" partitions inside of it.
 when setting up on windows m/c with a shared partition, make sure there are only 4 master partitons, otherwise 
 we can format the rest of partition.
 
