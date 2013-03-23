@@ -21,7 +21,7 @@ edit /etc/hosts
  127.0.0.1 linuxpc
  127.0.0.1 localhost
 
-###To install cloudera, 
+###To install cloudera CDH4, 
   disable seLinux,
    vi /etc/selinux/config
    selinux=enforcing to disable
