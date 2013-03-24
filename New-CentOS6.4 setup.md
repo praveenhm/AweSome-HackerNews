@@ -176,8 +176,16 @@ which is done by typing the following into the shell as root assuming you are us
     psql -h linuxpc -U scm -d scm
     find / -name hadoop-examples*
     cd /opt/cloudera/parcels/CDH-4.2.0-1.cdh4.2.0.p0.10/lib/hadoop-0.20-mapreduce/
-    hadoop  jar hadoop-examples.jar  pi 10 100
+    hadoop  jar hadoop-examples.jar  pi 10 100   # can't owner is hdfs change it
     psql -U hive -d hive -p PBBpMFZ70y
+    find / -name hdfs-site.xml
+    vi /etc/hadoop/conf.cloudera.mapreduce1/hdfs-site.xml  
+    find / -exec grep -Hn dfs.permissions {} \;      # find dfs.permissions string in every file
+    sudo -u hdfs hadoop fs -ls -R /
+    sudo -u hdfs hadoop fs -chown mapred:hadoop /tmp/mapred/system
+    sudo -u hdfs hadoop fs -ls -R /
+    sudo -u hdfs hadoop fs -chown praveen:supergroup /user  # you can't run the example, since owner is hdfs change it to praveen
+    
     
 
 For sudo previlage add the user praveen
