@@ -113,7 +113,7 @@ yum install ntfs-3g
 
 
 
-#### list of commans --
+#### list of handy commands --
 
     /etc/init.d/network restart
     cd /etc/sysconfig/network-scripts/
