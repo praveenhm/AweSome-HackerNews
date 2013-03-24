@@ -11,11 +11,11 @@ After instalation, do not disable the Bluetooth or wireless, it's a messed up. y
 re-install the Networkmanger-gnome applet again.
 
 Software:
- -Chrome,
- -Adobe Flash,
- -uninstall the openJdk 6 first & then install oracle Jdk 7.
- -STS 3.2 -> juno 4.2.2
-  -configure maven path
+-Chrome,
+-Adobe Flash,
+-uninstall the openJdk 6 first & then install oracle Jdk 7.
+-STS 3.2 -> juno 4.2.2
+ -configure maven path
 
 edit /etc/hosts
  127.0.0.1 linuxpc
