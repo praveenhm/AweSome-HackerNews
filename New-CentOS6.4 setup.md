@@ -180,6 +180,7 @@ which is done by typing the following into the shell as root assuming you are us
     psql -U hive -d hive -p PBBpMFZ70y
     
 
-
+For sudo previlage add the user praveen
+ visudo
 
 
