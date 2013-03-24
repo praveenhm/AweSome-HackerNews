@@ -113,6 +113,75 @@ yum install ntfs-3g
 
 
 
+#### list of commans --
+
+    /etc/init.d/network restart
+    cd /etc/sysconfig/network-scripts/
+    vi ifcfg-wlan0   -wireless lan   
+    service NetworkManger restart
+    nm-applet
+    rpm -qa |grep network
+    rfkill list     - gives the list of devices
+    rfkill killall   - kills all
+    rfkill unblock 0  
+    rfkill unblock all
+    ncli nw wifi on
+    getfacl /dev/rfkill
+    iwconfig
+    rpm -e java-1.6.0-openjdk-1.6.0.0-1.50.1.11.5.el6_3.x86_64
+    rpm -e jdk-1.7.0_17-fcs.x86_64
+    rpm -qa |grep jdk
+    rpm -ivh /tmp/jdk-7u17-linux-x64.rpm
+    yum install ./jdk-7u17-linux-x64.rpm
+    ls /etc/alternatives
+    vi /etc/hosts
+    chmod +x cloudera-manager-installer.bin
+    ./cloudera-manager-installer.bin 
+    vi /etc/selinux/config 
+    chmod +x vpnsetup.sh 
+    ./vpnsetup.sh 
+    ls /etc/default/cloudera-scm-agent 
+    ls /etc/cloudera-scm-server/
+    less  /etc/init.d/cloudera-scm-server
+    less /var/log/cloudera-scm-server/cloudera-scm-server.log 
+    vi /var/log/cloudera-scm-server/db.log 
+    vi /var/log/cloudera-scm-agent/cloudera-scm-agent.log
+    postgresql status
+    /etc/init.d/postgresql status
+    service postgresql status
+    service postgresql initdb
+    psql -U hive -d hive -p PBBpMFZ70y
+    sevice cloudera-scm-agent status
+    service cloudera-scm-server status
+    service cloudera-scm-server-db status
+    vi /etc/cloudera-scm-agent/config.ini 
+    tail /var/log/cloudera-scm-agent/cloudera-scm-agent.log
+    tail -f /var/log/cloudera-scm-agent/cloudera-scm-agent.log
+    hdfs dfs /
+    psql
+    psql -U postgres
+    psql -h linuxpc -U hue -d hue
+    sql: FATAL:  Ident authentication failed for user
+    vi /var/lib/pgsql/data/pg_hba.conf  # edit the file
+    service postgresql restart
+    psql -h localhost -U hue -d hue
+    psql -h localhost -U hive -d hive
+    psql -h localhost -U hive 
+    psql -h linuxpc -U hive -d hive
+    psql  -U hive -d hive
+    service postgresql status
+    vi /var/lib/pgsql/data/postgresql.conf 
+    hadoop fs -ls /
+    hadoop fs -ls /user
+    psql -h loacalhost -U scm -d scm -p s6uJqlJJPt
+    psql -h linuxpc -U scm -d scm -p s6uJqlJJPt
+    psql -h linuxpc -U scm -d scm
+    find / -name hadoop-examples*
+    cd /opt/cloudera/parcels/CDH-4.2.0-1.cdh4.2.0.p0.10/lib/hadoop-0.20-mapreduce/
+    hadoop  jar hadoop-examples.jar  pi 10 100
+    psql -U hive -d hive -p PBBpMFZ70y
+    
+
 
 
 
