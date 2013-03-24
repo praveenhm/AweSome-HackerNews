@@ -138,6 +138,11 @@ which is done by typing the following into the shell as root assuming you are us
     vi /etc/selinux/config 
     chmod +x vpnsetup.sh 
     ./vpnsetup.sh 
+    cd /etc/hadoop/conf
+    vi hadoop-env.sh 
+    vi mapred-site.xml 
+    vi hdfs-site.xml 
+    vi core-site.xml
     ls /etc/default/cloudera-scm-agent 
     ls /etc/cloudera-scm-server/
     less  /etc/init.d/cloudera-scm-server
