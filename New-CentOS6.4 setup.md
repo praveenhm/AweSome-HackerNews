@@ -191,7 +191,7 @@ which is done by typing the following into the shell as root assuming you are us
     sudo -u hdfs hadoop fs -ls -R /
     sudo -u hdfs hadoop fs -chown praveen:supergroup /user  # you can't run the example, since owner is hdfs change it to praveen
     
-### posgtgresql 8.4.11
+### localhost posgtgresql 8.4.11 external, not the embedded_db comes with the CDH4
     yum install pgadmin3    # install the admin tool
     subl /var/lib/pgsql/data/postgresql.conf 
     subl /var/lib/pgsql/data/pg_hba.conf
