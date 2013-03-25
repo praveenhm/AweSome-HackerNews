@@ -1,7 +1,6 @@
+#### steps to install and work with the PostgreSql 8.4.11
 
-#### steps to install and work with the PostgreSql
-
-### localhost posgtgresql 8.4.11 external, not the embedded_db comes with the CDH4
+          
           yum install pgadmin3    # install the admin tool
           subl /var/lib/pgsql/data/postgresql.conf 
           subl /var/lib/pgsql/data/pg_hba.conf
@@ -38,5 +37,5 @@
            maintenance_work_mem | user       | 16384   | 16384     | 16384
            work_mem             | user       | 1024    | 1024      | 1024
           (6 rows)
-      
-
+          
+          
