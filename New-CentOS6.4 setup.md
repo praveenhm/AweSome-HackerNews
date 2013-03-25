@@ -190,6 +190,7 @@ which is done by typing the following into the shell as root assuming you are us
     sudo -u hdfs hadoop fs -chown mapred:hadoop /tmp/mapred/system
     sudo -u hdfs hadoop fs -ls -R /
     sudo -u hdfs hadoop fs -chown praveen:supergroup /user  # you can't run the example, since owner is hdfs change it to praveen
+    less /etc/cloudera-scm-server/db.properties   # embedded_db properties.
 
 For sudo previlage add the user praveen
  visudo
