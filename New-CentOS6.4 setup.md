@@ -1,5 +1,5 @@
  
-### Below are the steps to setup a new CentOS 6.4 box.
+### Below are the steps to setup a new CentOS 6.4(RHEL 6.4) box.
 
 Can't partition problem:
 Basically, you can have 4 "real" partitions on a disk; to get more, you make up to 3 Primary partitions, 
