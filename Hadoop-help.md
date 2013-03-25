@@ -1,5 +1,4 @@
 
-
 Hadoop 
 
 Startup/shutdown: 
