@@ -14,3 +14,11 @@ phonegap
 
 Visual editor: Inkscape
 http://inkscape.org/index.php?lang=en
+
+
+Hadoop:
+Hadoop streaming
+Hadoop Core MR
+Hbase db
+Hive postcomputing
+Pig  precomputing
