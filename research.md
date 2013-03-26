@@ -22,3 +22,9 @@ Hadoop Core MR
 Hbase db
 Hive postcomputing
 Pig  precomputing
+
+Hadoop:
+Input data frquencies
+volume of incoming data gb
+How many node installed clusters
+what is data done after computing.
