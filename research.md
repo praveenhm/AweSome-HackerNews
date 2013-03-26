@@ -1,4 +1,3 @@
-
 ## Just thougts on technology.
 
 
@@ -13,4 +12,5 @@ meteor,derby
 
 phonegap
 
-
+Visual editor: Inkscape
+http://inkscape.org/index.php?lang=en
