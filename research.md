@@ -15,6 +15,7 @@ After a quiet bit of research I have settled down on 3 popular frontend MVC fram
 - [angularjs dependency injection](http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
 - [intro angular js](http://blog.akquinet.de/2013/01/22/maintainable-rich-web-applications-with-angularjs/#more-2552)
 - [intro angularjs](http://blog.kaggle.com/2013/01/14/webapps-for-data-scientists-building-your-first-crud/)
+- [youtube built on angularjs](https://github.com/mikecrittenden/toogles)
 Angular + PhoneGap, exposing backend via REST.
 
 
