@@ -34,3 +34,6 @@
 ##### Java/J2EE:
  - [j2ee best practices]
  (http://gordondickens.com/wordpress/2012/07/03/enterprise-spring-best-practices-part-1-project-config/)
+
+###### Health Ins
+  - [simply Insured](http://blog.simplyinsured.com/) 
