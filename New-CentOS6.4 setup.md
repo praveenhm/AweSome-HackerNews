@@ -17,7 +17,15 @@ Software:
 -STS 3.2 -> juno 4.2.2
  -configure maven path
 
-edit /etc/hosts
+#### Install Adobe reader,
+    rpm -ivh http://linuxdownload.adobe.com/adobe-release/adobe-release-i386-1.0-1.noarch.rpm
+    rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY-adobe-linux
+    yum install nspluginwrapper.i686 AdobeReader_enu
+    yum list AdobeReader*
+    yum install AdobeReader_enu
+
+
+#### edit /etc/hosts
  127.0.0.1 linuxpc
  127.0.0.1 localhost
 
