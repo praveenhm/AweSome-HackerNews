@@ -3,12 +3,15 @@
 
 Javascript:
 
-After a quiet bit of research I have settled down on frontend MVC framework,
-Then Angular + PhoneGap, exposing backend via REST.
-- Anjular.js
-- [fun with angular](http://devgirl.org/2013/03/21/fun-with-angularjs/)
+After a quiet bit of research I have settled down on 3 popular frontend MVC framework,
+
+- backbone.js, it is barebone framework needs lot of plumming 
+- Angular.js, the best in the pack
 - Knockout.js
 
+- [getting started with angularjs](http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
+- [fun with angular](http://devgirl.org/2013/03/21/fun-with-angularjs/)
+Angular + PhoneGap, exposing backend via REST.
 
 
 realtime,
