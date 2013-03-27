@@ -1,4 +1,3 @@
-
 ##### Javascript:
   [Useful meteor links](http://themeteorbook.com/)
 
@@ -6,7 +5,7 @@
 ##### Startup:
    - [Integrating web services,](https://zapier.com/zapbook/)
    - [Startup Trap:](http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
-
+   - [Your Startup’s Most Important Metrics](http://tomtunguz.com/your-startups-10-most-important-metrics/)
 
 ##### Building iOS Apps,
  - [building a sample airBNB app in 16hrs,](https://blog.stackmob.com/2013/03/build-an-airbnb-clone-in-a-day/)
