@@ -6,7 +6,11 @@ Javascript:
 After a quiet bit of research I have settled down on frontend MVC framework,
 Then Angular + PhoneGap, exposing backend via REST.
 - Anjular.js
+- [fun with angular ](http://devgirl.org/2013/03/21/fun-with-angularjs/)
+- 
 - Knockout.js
+
+
 
 realtime,
 meteor,derby
