@@ -29,14 +29,17 @@ http://inkscape.org/index.php?lang=en
 
 
 Hadoop:
-Hadoop streaming
-Hadoop Core MR
-Hbase db
-Hive postcomputing
-Pig  precomputing
+- Hadoop streaming
+- Hadoop Core MR
+- Hbase db
+- Hive postcomputing
+- Pig  precomputing
 
 Hadoop:
 Input data frquencies
 volume of incoming data gb
 How many node installed clusters
 what is data done after computing.
+
+Hadoop:
+[wordcount example](http://kickstarthadoop.blogspot.com/2011/04/word-count-hadoop-map-reduce-example.html)
