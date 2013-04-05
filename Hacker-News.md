@@ -43,5 +43,5 @@
   - [simply Insured](http://blog.simplyinsured.com/) 
 
 JOBs:
-job http://recruiting.jobvite.com/customers/
-[How to hire a programmer]((http://blog.kiratalent.com/post/47112553827/12-must-reads-when-recruiting-programmers)
+- [job](http://recruiting.jobvite.com/customers/)
+- [How to hire a programmer]((http://blog.kiratalent.com/post/47112553827/12-must-reads-when-recruiting-programmers)
