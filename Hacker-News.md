@@ -50,4 +50,4 @@ JOBs:
 [best techincal talk](https://news.ycombinator.com/item?id=5511466)
 
  h4 Cloud hosting
- [Digital ocean](https://www.digitalocean.com/)
+ - [Digital ocean](https://www.digitalocean.com/)
