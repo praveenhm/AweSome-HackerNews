@@ -54,4 +54,3 @@ h4 Cloud hosting
 
 #### WYSIWYG Bootstrap,
 -  Jetstrap, Divshot, and Easel WYSIWYG Bootstrap apps.
--  
