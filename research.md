@@ -45,3 +45,7 @@ Hadoop:
 [wordcount example](http://kickstarthadoop.blogspot.com/2011/04/word-count-hadoop-map-reduce-example.html)
 
 Backend: Java + REST + Amazon EC2 + Hadoop + NoSQL
+
+
+#### Spring Roo
+-  [user management](http://raginggoblin.wordpress.com/)
