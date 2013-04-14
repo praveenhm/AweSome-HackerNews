@@ -18,6 +18,7 @@ After a quiet bit of research I have settled down on 3 popular frontend MVC fram
 - [youtube built on angularjs](https://github.com/mikecrittenden/toogles)
 Angular + PhoneGap, exposing backend via REST.
 
+ Angularjs focus on isolate scopes and transclusion which are confusing on john video
 
 realtime,
 meteor,derby
