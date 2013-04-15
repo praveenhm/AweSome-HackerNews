@@ -53,3 +53,6 @@ Backend: Java + REST + Amazon EC2 + Hadoop + NoSQL
 
 #### Go
 - [Go slide](http://www.slideshare.net/derekcollison/go-conference-japan)
+
+#### Scalability
+- [Pinterest](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html?utm_source=feedly)
