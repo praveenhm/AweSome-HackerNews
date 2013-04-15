@@ -50,3 +50,6 @@ Backend: Java + REST + Amazon EC2 + Hadoop + NoSQL
 
 #### Spring Roo
 -  [user management](http://raginggoblin.wordpress.com/)
+-  
+#### Go
+- [Go slide](http://www.slideshare.net/derekcollison/go-conference-japan)
