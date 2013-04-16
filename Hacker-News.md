@@ -54,3 +54,6 @@ h4 Cloud hosting
 
 #### WYSIWYG Bootstrap,
 -  Jetstrap, Divshot, and Easel WYSIWYG Bootstrap apps.
+
+#### VC Funding,
+-  [vc funding lessons](http://viniciusvacanti.com/2013/04/16/lessons-learned-raising-6-million/)
