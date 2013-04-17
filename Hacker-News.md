@@ -57,3 +57,6 @@ h4 Cloud hosting
 
 #### VC Funding,
 -  [vc funding lessons](http://viniciusvacanti.com/2013/04/16/lessons-learned-raising-6-million/)
+
+#### Rest API Design,
+- [Rest Api design](https://www.stormpath.com/blog/secure-your-rest-api-right-way)
