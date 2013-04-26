@@ -14,3 +14,6 @@ h2 helpful Angular tips
    -KnockoutJs 
    -EmberJS
    -Angulrjs
+
+#### D3,
+- [startup tutorial D3](http://bost.ocks.org/mike/selection/)
