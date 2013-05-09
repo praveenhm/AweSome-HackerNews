@@ -1,4 +1,4 @@
-
 ##### creepy social network
 
--[creepy linkedin](https://news.ycombinator.com/item?id=5680680)
+-[creepy linkedin](http://www.interactually.com/linkedin-creepiest-social-network/) 
+-[hackernew comments](https://news.ycombinator.com/item?id=5680680)
