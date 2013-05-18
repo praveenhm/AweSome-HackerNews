@@ -19,7 +19,7 @@ h2 helpful Angular tips
 
 #### D3,
 - [startup tutorial D3](http://bost.ocks.org/mike/selection/)
-- 
+
 
 #### Meteor,
 - [discover meteor](http://www.discovermeteor.com/) 
