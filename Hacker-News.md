@@ -61,3 +61,5 @@ h4 Cloud hosting
 #### Rest API Design,
 - [Rest Api design](https://www.stormpath.com/blog/secure-your-rest-api-right-way)
 - [spring REST authentication](http://www.javacodegeeks.com/2012/05/how-to-use-resttemplate-with-basic.html)
+- [Best practices ](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?hn)
+
