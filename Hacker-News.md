@@ -63,3 +63,6 @@ h4 Cloud hosting
 - [spring REST authentication](http://www.javacodegeeks.com/2012/05/how-to-use-resttemplate-with-basic.html)
 - [Best practices ](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?hn)
 
+
+#### Front End design,
+- [Front end design](https://github.com/dypsilon/frontend-dev-bookmarks)
