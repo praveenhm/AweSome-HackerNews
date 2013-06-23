@@ -66,3 +66,7 @@ h4 Cloud hosting
 
 #### Front End design,
 - [Front end design](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+
+##### Startup Companies:
+- [startup website using youtube api](http://en-us.blynde.com/)
