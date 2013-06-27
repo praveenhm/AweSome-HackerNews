@@ -70,3 +70,4 @@ h4 Cloud hosting
 
 ##### Startup Companies:
 - [startup website using youtube api](http://en-us.blynde.com/)
+- [build using rails simple web](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
