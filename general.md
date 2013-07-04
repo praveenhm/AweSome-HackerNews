@@ -7,3 +7,11 @@ copy newsCreed http://newscred.com/
 
 devloper apps for mac:
 http://thetechblock.com/must-have-osx-apps-designers-developers/
+
+
+below is the list of configuration management tools
+- cfEngine
+- puppet
+- chef
+- saltstack
+- ansible is the best
