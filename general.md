@@ -14,4 +14,4 @@ below is the list of configuration management tools
 - puppet
 - chef
 - saltstack
-- ansible is the best
+- [ansible is the best](http://devo.ps/blog/2013/07/03/ansible-simply-kicks-ass.html)
