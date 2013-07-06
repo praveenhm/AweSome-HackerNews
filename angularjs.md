@@ -4,7 +4,7 @@ h2 helpful Angular tips
 - [startAngularjs](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 - [60 minute video tutorila](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
 - [Angular cheatsheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-
+- [Angularjs overview](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 
 #### javascript
  CommonJS is a common moudule required for the javascript. RequireJS is a implemention of 
