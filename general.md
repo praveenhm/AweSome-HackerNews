@@ -15,3 +15,5 @@ below is the list of configuration management tools
 - chef
 - saltstack
 - [ansible is the best](http://devo.ps/blog/2013/07/03/ansible-simply-kicks-ass.html)
+
+- [police video](http://www.youtube.com/watch?v=6wXkI4t7nuc)
