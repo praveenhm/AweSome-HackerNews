@@ -24,8 +24,7 @@ h2 helpful Angular tips
 
 
 #### Meteor,
-- [discover meteor](http://www.discovermeteor.com/) 
-- 
+- [discover meteor](http://www.discovermeteor.com/)  
 
 #### AngularJs demo project,
 -[Using angular with firebase](http://firereader.io/app/#/demo)
