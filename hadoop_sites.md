@@ -7,3 +7,7 @@
 
 #### Hadoop Intro,
 - [A good intro to hadoop](http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/)
+
+
+#### Practical intro to data science
+-[Intro to data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
