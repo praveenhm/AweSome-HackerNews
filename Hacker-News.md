@@ -67,6 +67,7 @@ JOBs:
 
 #### Front End design,
 - [Front end design](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Divshot, the great bootstrap design tool](http://www.divshot.com/)
 
 
 ##### Startup Companies:
