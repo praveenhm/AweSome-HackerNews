@@ -16,3 +16,5 @@
 - [How to be 20 Times as Successful with your IT Department](http://marcusblankenship.com/post/55659546590/how-to-be-20-times-as-successful-with-your-it)
 
 
+#### How to make money by billing differently
+- [making money on billing](http://sixrevisions.com/business/earn-more-on-projects/)
