@@ -13,5 +13,6 @@
 
 #### A good read on startup friendly
 - [42 rules read for startup](http://firstround.com/article/42-Rules-to-Lead-by-from-the-Man-Who-Defined-Googles-Product-Strategy#)
+- [How to be 20 Times as Successful with your IT Department](http://marcusblankenship.com/post/55659546590/how-to-be-20-times-as-successful-with-your-it)
 
 
