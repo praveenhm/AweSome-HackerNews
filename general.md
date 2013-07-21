@@ -21,3 +21,7 @@ below is the list of configuration management tools
 
 #### Priceonmics
 - [price guide to everything](http://priceonomics.com/)
+
+
+#### Digital Inspirations
+-[How to Guies](http://www.labnol.org/)
