@@ -1,3 +1,10 @@
+
+#### Software,
+
+- VLC
+- Handbrake
+
+
 #### Below are the steps to setup new box,
 
     brew install node
