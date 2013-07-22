@@ -25,3 +25,7 @@ below is the list of configuration management tools
 
 #### Digital Inspirations
 -[How to Guies](http://www.labnol.org/)
+
+
+#### Photography
+- [This is future of photoraphy](http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/)
