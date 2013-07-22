@@ -18,3 +18,8 @@
 
 #### How to make money by billing differently
 - [making money on billing](http://sixrevisions.com/business/earn-more-on-projects/)
+
+
+
+#### startup company,
+- [web scraping](https://github.com/propublica/upton)
