@@ -29,3 +29,7 @@ below is the list of configuration management tools
 
 #### Photography
 - [This is future of photoraphy](http://www.nytimes.com/newsgraphics/2013/07/21/silk-road/)
+
+find . -name 'pom.xml' |xargs perl -pi -e 's/2.1.17-SNAPSHOT/2.1.16-SNAPSHOT/g'
+
+find ~/.m2  -name "*.lastUpdated" -exec grep -q "Could not transfer" {} \; -print -exec rm {} \;
