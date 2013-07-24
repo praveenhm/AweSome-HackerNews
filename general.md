@@ -33,3 +33,7 @@ below is the list of configuration management tools
 find . -name 'pom.xml' |xargs perl -pi -e 's/2.1.17-SNAPSHOT/2.1.16-SNAPSHOT/g'
 
 find ~/.m2  -name "*.lastUpdated" -exec grep -q "Could not transfer" {} \; -print -exec rm {} \;
+
+
+#### RPM
+- [Building RPMs on windows](http://crlog.info/2012/09/11/building-rpms-on-windows/)
