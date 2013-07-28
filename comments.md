@@ -4,3 +4,5 @@ I agree with you on much of what you said and thanks for not attacking those tha
 how I learned to bide my time in this place for 7 years and eschew the typical advice aimed for those who are content to struggle towards tenure
 
 his race-baiting stoodges
+
+I have a horde at home.
