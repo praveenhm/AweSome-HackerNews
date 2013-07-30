@@ -8,6 +8,7 @@ h2 helpful Angular tips
 
 - [Youtube intergration with angularjs good one](https://github.com/mikecrittenden/toogles)
 - [Angularjs in 7 steps](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+- [Angularjs with backend](https://blog.backlift.com/entry/angular-tut2)
 
 #### javascript
  CommonJS is a common moudule required for the javascript. RequireJS is a implemention of 
