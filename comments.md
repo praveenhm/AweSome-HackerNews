@@ -6,3 +6,5 @@ how I learned to bide my time in this place for 7 years and eschew the typical a
 his race-baiting stoodges
 
 I have a horde at home.
+
+the age at which children can comprehend(absorb) the difference between right and wrong
