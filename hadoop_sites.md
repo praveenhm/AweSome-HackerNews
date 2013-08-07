@@ -7,6 +7,7 @@
 
 #### Hadoop Intro,
 - [A good intro to hadoop](http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/)
+- [HBase debate](http://www.informationweek.com/software/enterprise-applications/big-data-debate-will-hbase-dominate-nosq/240159475)
 
 
 #### Practical intro to data science
