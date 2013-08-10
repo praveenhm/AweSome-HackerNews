@@ -74,3 +74,6 @@ JOBs:
 ##### Startup Companies:
 - [startup website using youtube api](http://en-us.blynde.com/)
 - [build using rails simple web](http://www.vutran.me/blog/from-learning-rails-to-deploying-a-saas-app-in-7-days/)
+
+#### Media,
+- [MediaCrush is an image hosting website designed for speedy images](https://mediacru.sh/)
