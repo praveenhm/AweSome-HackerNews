@@ -69,7 +69,7 @@ JOBs:
 #### Front End design,
 - [Front end design](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Divshot, the great bootstrap design tool](http://www.divshot.com/)
-
+- [Bootstrap switch](http://www.bootstrap-switch.org/)
 
 ##### Startup Companies:
 - [startup website using youtube api](http://en-us.blynde.com/)
