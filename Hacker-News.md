@@ -77,3 +77,7 @@ JOBs:
 
 #### Media,
 - [MediaCrush is an image hosting website designed for speedy images](https://mediacru.sh/)
+
+
+### Writing skill,
+- [Writing Skill](https://news.ycombinator.com/item?id=6206625)
