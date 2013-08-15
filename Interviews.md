@@ -6,7 +6,7 @@
 
 Threads,
 
-The One Commandment of multithreaded programming:
+The One Commandment of multithreaded programming,
 1. Thou Shalt Not touch shared data without synchronization.
   You must know what data is shared, and you must synchronize all access to shared data
 (with one exception, when all access is read-only).
