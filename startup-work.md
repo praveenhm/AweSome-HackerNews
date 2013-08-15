@@ -30,3 +30,11 @@
 -[How to raise money first time](http://wadefoster.net/post/58039721398/how-to-raise-money-as-a-first-time-founder)
 -[Startup lessons](http://www.defmacro.org/2013/07/23/startup-lessons.html)
 -[startup lessons with comments](https://news.ycombinator.com/item?id=6209689l)
+
+
+#### startup clone
+pinterest clone
+-[pinterest clone](http://overshard.github.com/pinry/)
+
+I iphone app
+-[iphone app](https://parse.com/anywall)
