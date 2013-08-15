@@ -9,3 +9,4 @@
 #### Stock options
 - [stock options in startup](http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
 - [understanding the stock options](https://news.ycombinator.com/item?id=6205542)
+- [data based company palantir](http://www.palantir.com/)
