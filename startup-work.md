@@ -5,6 +5,7 @@
 #### on startup website
 - [onstartup website ](http://onstartups.com/)
 - [venture hacks](http://venturehacks.com/)
+- [startup advice](https://iamwil.posterous.com/i-got-into-yc-after-applying-six-times-heres/)
 
 
 #### Startup stock options gotcha
@@ -38,3 +39,5 @@ pinterest clone
 
 I iphone app
 -[iphone app](https://parse.com/anywall)
+
+
