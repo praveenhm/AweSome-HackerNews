@@ -9,6 +9,7 @@ simplifying the spring data
 - [JPA tutorials](http://schuchert.wikispaces.com/JPA+Tutorial+2+-+Working+with+Queries+1)
 - [springData](https://github.com/SpringSource/spring-data-jpa-examples/blob/master/spring-data-jpa-example/src/main/java/org/springframework/data/jpa/example/repository/UserRepositoryJdbcImpl.java)
 
+- [Spring Roo, MVC and Angularjs](http://www.rimple.com/)
 
 TypeTools 0.2.1
 One of the sore points with Java involves working with type information. In particular, 
@@ -26,3 +27,5 @@ http://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tut
 
 Best Programming Advice:
 https://www.informit.com/articles/article.aspx?p=1926692
+
+
