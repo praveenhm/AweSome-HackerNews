@@ -14,3 +14,10 @@
 -[Intro to data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 -[Data science competiton](http://www.kaggle.com/)
 
+
+
+HBase tutorial:
+http://www.slideshare.net/larsgeorge/realtime-analytics-with-hadoop-and-hbase
+
+hadoop at twitter:
+http://architects.dzone.com/articles/how-does-twitter-use-scribe
