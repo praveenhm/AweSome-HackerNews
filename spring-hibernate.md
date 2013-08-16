@@ -10,6 +10,7 @@ simplifying the spring data
 - [springData](https://github.com/SpringSource/spring-data-jpa-examples/blob/master/spring-data-jpa-example/src/main/java/org/springframework/data/jpa/example/repository/UserRepositoryJdbcImpl.java)
 
 - [Spring Roo, MVC and Angularjs](http://www.rimple.com/)
+- [Java code geeks](http://www.javacodegeeks.com/)
 
 TypeTools 0.2.1
 One of the sore points with Java involves working with type information. In particular, 
