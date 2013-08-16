@@ -81,3 +81,8 @@ JOBs:
 
 ### Writing skill,
 - [Writing Skill](https://news.ycombinator.com/item?id=6206625)
+
+
+#### developer,
+-[Good site for developer:](https://zapier.com/developer/)
+
