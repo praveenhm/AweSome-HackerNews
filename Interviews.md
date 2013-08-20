@@ -3,6 +3,7 @@
 - [deligtful puzzles](http://gurmeet.net/puzzles/)
 - [first time Interview ](http://firstround.com/article/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP)
 
+- [fucked up google interview](https://news.ycombinator.com/item?id=6243627)
 
 Threads,
 
