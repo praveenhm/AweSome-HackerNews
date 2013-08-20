@@ -5,6 +5,8 @@
 
 - [fucked up google interview](https://news.ycombinator.com/item?id=6243627)
 
+- [why secure email is difficult](https://news.ycombinator.com/item?id=6243936)
+
 Threads,
 
 The One Commandment of multithreaded programming,
