@@ -51,6 +51,17 @@ I strongly recommend against using any `<blink>` tags.
 I wish SmartyPants used named entities like `&mdash;`
 instead of decimal-encoded entites like `&#8212;`.
 
+
+
+
+
 ------------------------------------------------------
 
     This is block quote
+
+
+Using Bitbucket,
+first create repository in bitbucket,
+then clone it in sourcetree.
+then add all the files, commit and push.
+
