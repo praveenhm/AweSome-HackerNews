@@ -7,6 +7,7 @@
 
 - [why secure email is difficult](https://news.ycombinator.com/item?id=6243936)
 
+- [I will not do another tech interview](https://news.ycombinator.com/item?id=6251087)
 Threads,
 
 The One Commandment of multithreaded programming,
