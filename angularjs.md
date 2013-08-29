@@ -35,3 +35,7 @@ h2 helpful Angular tips
 
 #### NodeJs
 - [good tutorial on nodejs](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+
+
+#### New technology,
+- [docker a packaging system](https://news.ycombinator.com/item?id=6291123)
