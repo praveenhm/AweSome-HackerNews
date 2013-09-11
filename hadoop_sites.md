@@ -25,22 +25,21 @@ http://architects.dzone.com/articles/how-does-twitter-use-scribe
 
 WEBSITE for Hadoop:
 
-http://hstack.org/
-http://radar.oreilly.com/2011/06/getting-started-with-hadoop.html
-http://www.hortonworks.com/new-apache-pig-features-part-1-macro/
-Hadoop Software:
-Hadoop library for compression
-http://code.google.com/p/hadoop-snappy/
+-[hstack](http://hstack.org/)
+-[](http://radar.oreilly.com/2011/06/getting-started-with-hadoop.html)
+-[](http://www.hortonworks.com/new-apache-pig-features-part-1-macro/)
 
-Hadoop packaging and test
-http://wiki.apache.org/incubator/BigtopProposal
+Hadoop Software:
+- [Hadoop library for compression](http://code.google.com/p/hadoop-snappy/)
+
+- [Hadoop packaging and test](http://wiki.apache.org/incubator/BigtopProposal)
 
 Commerical products around Hadoop:
-http://www.mapr.com/products.html
-http://www.stat.purdue.edu/~sguha/rhipe/
-http://www.karmasphere.com/Products-Information/karmasphere-studio.html
-http://www.informatica.com/products_services/powercenter/Pages/index.aspx
-http://lucene.472066.n3.nabble.com/Is-this-a-fair-summary-of-HDFS-failover-td2493844.html
+-http://www.mapr.com/products.html
+-http://www.stat.purdue.edu/~sguha/rhipe/
+-http://www.karmasphere.com/Products-Information/karmasphere-studio.html
+-http://www.informatica.com/products_services/powercenter/Pages/index.aspx
+-http://lucene.472066.n3.nabble.com/Is-this-a-fair-summary-of-HDFS-failover-td2493844.html
 
 PIG Tutorial:
 http://www.slideshare.net/hadoop/practical-problem-solving-with-apache-hadoop-pig
