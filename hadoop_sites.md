@@ -42,25 +42,26 @@ Commerical products around Hadoop:
 - http://lucene.472066.n3.nabble.com/Is-this-a-fair-summary-of-HDFS-failover-td2493844.html
 
 PIG Tutorial:
-http://www.slideshare.net/hadoop/practical-problem-solving-with-apache-hadoop-pig
-http://parand.com/say/index.php/2008/06/19/pig-hadoop-commands-and-sample-results/
+- http://www.slideshare.net/hadoop/practical-problem-solving-with-apache-hadoop-pig
+- http://parand.com/say/index.php/2008/06/19/pig-hadoop-commands-and-sample-results/
 
 PIG:
-http://www.simon-fortelny.com/?p=118
+- http://www.simon-fortelny.com/?p=118
 
 Programming pig:
-http://ofps.oreilly.com/titles/9781449302641/index.html
+- http://ofps.oreilly.com/titles/9781449302641/index.html
+
 Working on PIG:
-http://blog.linkedin.com/2010/07/01/linkedin-apache-pig/
+- http://blog.linkedin.com/2010/07/01/linkedin-apache-pig/
 
 PIG performance:
-http://ofps.oreilly.com/titles/9781449302641/making_pig_fly.html
-http://jonathanhui.com/hadoop-distributed-file-system-hdfs
-http://www.simon-fortelny.com/?p=118
+- http://ofps.oreilly.com/titles/9781449302641/making_pig_fly.html
+- http://jonathanhui.com/hadoop-distributed-file-system-hdfs
+- http://www.simon-fortelny.com/?p=118
 
 Hadoop, bigdata blog
-https://pkghosh.wordpress.com/
+- https://pkghosh.wordpress.com/
 
 GitHUb
-https://github.com/pranab/estado
+- https://github.com/pranab/estado
 
