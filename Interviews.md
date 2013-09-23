@@ -10,6 +10,9 @@
 - [I will not do another tech interview](https://news.ycombinator.com/item?id=6251087)
 
 - [Algorithms](https://news.ycombinator.com/item?id=6283663)
+
+- [Hire right](https://news.ycombinator.com/item?id=6432781)
+
 Threads,
 
 The One Commandment of multithreaded programming,
