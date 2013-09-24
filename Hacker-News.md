@@ -53,6 +53,7 @@ JOBs:
 ####h4 Cloud hosting
  - [Digital ocean](https://www.digitalocean.com/)
  - [Comparison of hosting](https://news.ycombinator.com/item?id=6018486)
+ - [Cloud hosting compared with amazon](https://news.ycombinator.com/item?id=6430753)  
 
 #### WYSIWYG Bootstrap,
 -  Jetstrap, Divshot, and Easel WYSIWYG Bootstrap apps.
