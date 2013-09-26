@@ -11,7 +11,7 @@ h2 helpful Angular tips
 - [Angularjs with backend](https://blog.backlift.com/entry/angular-tut2)
 - [Angularjs rocks](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
 - [Angularjs tutorial](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
- 
+ - [Angular js basics](https://coderwall.com/p/3qclqg)
 
 #### javascript
  CommonJS is a common moudule required for the javascript. RequireJS is a implemention of 
