@@ -42,3 +42,7 @@ I iphone app
 
 #### startup website design template,
 - [startup landing page](https://news.ycombinator.com/item?id=6291123)
+- 
+
+#### Adding https ssl to site
+- [How to http to https](https://news.ycombinator.com/item?id=6446955)
