@@ -13,6 +13,7 @@
 
 - [Hire right](https://news.ycombinator.com/item?id=6432781)
 
+- [startup interview process](https://news.ycombinator.com/item?id=6454140)
 Threads,
 
 The One Commandment of multithreaded programming,
