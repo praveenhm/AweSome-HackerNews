@@ -10,6 +10,10 @@
 - [HBase debate](http://www.informationweek.com/software/enterprise-applications/big-data-debate-will-hbase-dominate-nosq/240159475)
 
 
+#### variou hadoop framework comparisons,
+- [Amazon Redshift](http://dailytechnology.net/2013/08/03/redshift-what-you-need-to-know/)
+- [Big data benchmark, impala,hive](https://amplab.cs.berkeley.edu/benchmark/)
+
 #### Practical intro to data science
 -[Intro to data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 -[Data science competiton](http://www.kaggle.com/)
