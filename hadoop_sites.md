@@ -21,10 +21,10 @@
 
 
 HBase tutorial:
-http://www.slideshare.net/larsgeorge/realtime-analytics-with-hadoop-and-hbase
+- http://www.slideshare.net/larsgeorge/realtime-analytics-with-hadoop-and-hbase
 
 hadoop at twitter:
-http://architects.dzone.com/articles/how-does-twitter-use-scribe
+- http://architects.dzone.com/articles/how-does-twitter-use-scribe
 
 
 WEBSITE for Hadoop:
