@@ -14,6 +14,10 @@
 - [Hire right](https://news.ycombinator.com/item?id=6432781)
 
 - [startup interview process](https://news.ycombinator.com/item?id=6454140)
+
+- [Hadoop interview questions](http://www.fromdev.com/2010/12/interview-questions-hadoop-mapreduce.html)
+
+
 Threads,
 
 The One Commandment of multithreaded programming,
