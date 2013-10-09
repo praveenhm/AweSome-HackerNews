@@ -46,3 +46,8 @@ I iphone app
 
 #### Adding https ssl to site
 - [How to http to https](https://news.ycombinator.com/item?id=6446955)
+
+
+#### Startup Lessons,
+
+- [startup lessons learned](https://news.ycombinator.com/item?id=6522636)
