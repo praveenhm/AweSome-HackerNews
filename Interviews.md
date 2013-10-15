@@ -25,7 +25,7 @@
 - [40 collections questions](http://www.javacodegeeks.com/2013/02/40-java-collections-interview-questions-and-answers.html)
 - [Java interview questions](http://javaadmin.com/category/interview-questions/)
 
-
+- [Java interview questions](http://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 
 
 Threads,
