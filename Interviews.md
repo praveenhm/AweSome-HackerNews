@@ -27,6 +27,7 @@
 
 - [Java interview questions](http://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 
+- [online resouces](https://www.quora.com/Job-Interview-Questions/What-are-good-free-online-resources-to-prep-for-code-interviews)
 
 Threads,
 
