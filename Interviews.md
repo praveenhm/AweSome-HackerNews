@@ -20,6 +20,11 @@
 - [Hadoop interview questions](http://www.fromdev.com/2010/12/interview-questions-hadoop-mapreduce.html)
 
 
+##### Interview questions,
+
+- [40 collections questions](http://www.javacodegeeks.com/2013/02/40-java-collections-interview-questions-and-answers.html)
+
+
 Threads,
 
 The One Commandment of multithreaded programming,
