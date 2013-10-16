@@ -22,6 +22,8 @@
 
 ##### Interview questions,
 
+- [coding interview](https://news.ycombinator.com/item?id=6559404)
+
 - [40 collections questions](http://www.javacodegeeks.com/2013/02/40-java-collections-interview-questions-and-answers.html)
 - [Java interview questions](http://javaadmin.com/category/interview-questions/)
 
