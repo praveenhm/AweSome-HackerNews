@@ -51,6 +51,7 @@ I iphone app
 #### Startup Lessons,
 
 - [startup lessons learned](https://news.ycombinator.com/item?id=6522636)
+- [Lessons learned from startup](https://news.ycombinator.com/item?id=6566328)
 
 #### Pitching startup,
 - [Linkedin pitching in 2004](http://reidhoffman.org/linkedin-pitch-to-greylock/)
