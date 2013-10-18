@@ -52,6 +52,7 @@ I iphone app
 
 - [startup lessons learned](https://news.ycombinator.com/item?id=6522636)
 - [Lessons learned from startup](https://news.ycombinator.com/item?id=6566328)
+- [website crawling](https://news.ycombinator.com/item?id=6572677)
 
 #### Pitching startup,
 - [Linkedin pitching in 2004](http://reidhoffman.org/linkedin-pitch-to-greylock/)
