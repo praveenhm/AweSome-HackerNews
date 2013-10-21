@@ -57,3 +57,7 @@ I iphone app
 #### Pitching startup,
 - [Linkedin pitching in 2004](http://reidhoffman.org/linkedin-pitch-to-greylock/)
 
+#### SEO,
+ - [what is seo](https://news.ycombinator.com/item?id=6580817)
+
+
