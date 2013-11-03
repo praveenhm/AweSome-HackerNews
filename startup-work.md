@@ -54,6 +54,7 @@ I iphone app
 - [Lessons learned from startup](https://news.ycombinator.com/item?id=6566328)
 - [website crawling](https://news.ycombinator.com/item?id=6572677)
 - [startup lessons](https://news.ycombinator.com/item?id=6656728)
+-  [Startup unicorn, a round about startup](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/)
 
 #### Pitching startup,
 - [Linkedin pitching in 2004](http://reidhoffman.org/linkedin-pitch-to-greylock/)
