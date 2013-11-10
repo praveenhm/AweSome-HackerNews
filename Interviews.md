@@ -38,6 +38,10 @@ Threads,
 #### startup interviews,
 - [why startup ask math puzzle to code](https://news.ycombinator.com/item?id=6583580)
 
+- [question to ask your poetential employer](https://news.ycombinator.com/item?id=6701707)
+ 
+
+
 The One Commandment of multithreaded programming,
 1. Thou Shalt Not touch shared data without synchronization.
   You must know what data is shared, and you must synchronize all access to shared data
