@@ -67,3 +67,7 @@ I iphone app
 #### Y Combinator,
 - [submit application to Y combinator](https://news.ycombinator.com/item?id=6588233)
 
+
+#### content marketing engine
+
+- [How I built content marketing engine](http://tomtunguz.com/content-marketing-engine/)
