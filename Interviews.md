@@ -41,6 +41,9 @@ Threads,
 - [question to ask your poetential employer](https://news.ycombinator.com/item?id=6701707)
  
 
+#### Hiring software developers,
+
+- [Hiring software developers](http://hesh.am/2013/11/hiring-software-developers/)
 
 The One Commandment of multithreaded programming,
 1. Thou Shalt Not touch shared data without synchronization.
