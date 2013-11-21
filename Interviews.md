@@ -19,6 +19,7 @@
 
 - [Hadoop interview questions](http://www.fromdev.com/2010/12/interview-questions-hadoop-mapreduce.html)
 
+- [Core java blog, good for interview](http://vanillajava.blogspot.com/)
 
 ##### Interview questions,
 
