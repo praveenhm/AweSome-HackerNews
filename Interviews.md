@@ -46,6 +46,10 @@ Threads,
 
 - [Hiring software developers](http://hesh.am/2013/11/hiring-software-developers/)
 
+
+#### Algorithms,
+-[Algorithms](http://interactivepython.org/courselib/static/pythonds/index.html)
+
 The One Commandment of multithreaded programming,
 1. Thou Shalt Not touch shared data without synchronization.
   You must know what data is shared, and you must synchronize all access to shared data
