@@ -42,3 +42,7 @@ h2 helpful Angular tips
 
 #### New technology,
 - [docker a packaging system](https://news.ycombinator.com/item?id=6291123)
+- 
+
+##### Go lang web framework
+- [go lan web framework](https://news.ycombinator.com/item?id=6801024)
