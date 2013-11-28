@@ -50,6 +50,10 @@ Threads,
 #### Algorithms,
 -[Algorithms](http://interactivepython.org/courselib/static/pythonds/index.html)
 
+#### Java best practices,
+
+-[Java best practices](http://www.javapractices.com/home/HomeAction.do)
+
 The One Commandment of multithreaded programming,
 1. Thou Shalt Not touch shared data without synchronization.
   You must know what data is shared, and you must synchronize all access to shared data
