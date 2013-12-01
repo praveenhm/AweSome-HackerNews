@@ -39,3 +39,8 @@ find ~/.m2  -name "*.lastUpdated" -exec grep -q "Could not transfer" {} \; -prin
 - [Building RPMs on windows](http://crlog.info/2012/09/11/building-rpms-on-windows/)
 
 - [best practices for sprin j2ee](http://gordondickens.com/wordpress/2012/07/03/enterprise-spring-best-practices-part-1-project-config/)
+
+
+#### General Ameican police
+
+- [American police](http://chronicle.com/article/The-American-Police-State/142965/)
