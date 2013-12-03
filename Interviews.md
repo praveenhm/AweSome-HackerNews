@@ -54,6 +54,11 @@ Threads,
 
 -[Java best practices](http://www.javapractices.com/home/HomeAction.do)
 
+
+#### Interview prep,
+
+- [Interview prep for google](http://steve-yegge.blogspot.ca/2008/03/get-that-job-at-google.html)
+
 The One Commandment of multithreaded programming,
 1. Thou Shalt Not touch shared data without synchronization.
   You must know what data is shared, and you must synchronize all access to shared data
