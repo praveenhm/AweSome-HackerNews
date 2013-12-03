@@ -76,3 +76,5 @@ I iphone app
 ##### Analytics,
 
 - [free analytics product](Built scalable backend systems from scratch at two previous startups - Twurler and Lexity.)
+
+- [twitter analytics](www.topsy.com)
