@@ -58,6 +58,8 @@ Threads,
 #### Interview prep,
 
 - [Interview prep for google](http://steve-yegge.blogspot.ca/2008/03/get-that-job-at-google.html)
+- [hadoop prep for big data](http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html) 
+
 
 The One Commandment of multithreaded programming,
 1. Thou Shalt Not touch shared data without synchronization.
