@@ -78,3 +78,7 @@ I iphone app
 - [free analytics product](Built scalable backend systems from scratch at two previous startups - Twurler and Lexity.)
 
 - [twitter analytics](http://topsy.com/)
+
+- #### startup lawyer
+- [Startup lawyer](https://lawpal.com/#1)
+
