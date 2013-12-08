@@ -82,3 +82,7 @@ I iphone app
 - #### startup lawyer
 - [Startup lawyer](https://lawpal.com/#1)
 
+#### startup company
+
+- [startup company](https://angel.co/)
+
