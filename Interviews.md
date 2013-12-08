@@ -60,8 +60,12 @@ Threads,
 - [Interview prep for google](http://steve-yegge.blogspot.ca/2008/03/get-that-job-at-google.html)
 - [hadoop prep for big data](http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html) 
 
+
+#### Garbage collection,
+
 - [Java garbage collection distilled, good one on GC](http://www.infoq.com/articles/Java_Garbage_Collection_Distilled)
 
+- [Inside the java virtuall machine, Garbage collector](http://www.artima.com/insidejvm/ed2/gcP.html)
 
 
 
