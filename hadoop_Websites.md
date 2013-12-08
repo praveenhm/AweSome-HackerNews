@@ -20,6 +20,7 @@
 
 #### HDFS,
 
+- [Hadoop blog from facebook developer](http://hadoopblog.blogspot.com/)
 - [A good intro to HDFS](http://www.aosabook.org/en/hdfs.html)
 
 
