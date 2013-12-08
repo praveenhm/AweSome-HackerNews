@@ -18,6 +18,9 @@
 -[Intro to data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 -[Data science competiton](http://www.kaggle.com/)
 
+#### HDFS,
+
+- [A good intro to HDFS](http://www.aosabook.org/en/hdfs.html)
 
 
 HBase tutorial:
