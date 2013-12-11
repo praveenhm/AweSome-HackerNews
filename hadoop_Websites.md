@@ -26,6 +26,7 @@
 
 HBase tutorial:
 - http://www.slideshare.net/larsgeorge/realtime-analytics-with-hadoop-and-hbase
+- [Hbase basic](http://jimbojw.com/wiki/index.php?title=Understanding_HBase_and_BigTable)
 
 hadoop at twitter:
 - http://architects.dzone.com/articles/how-does-twitter-use-scribe
