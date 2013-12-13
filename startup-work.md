@@ -86,3 +86,6 @@ I iphone app
 
 - [startup company](https://angel.co/)
 
+#### Email introduction,
+
+- [Email introduction](https://news.ycombinator.com/item?id=6901713)
