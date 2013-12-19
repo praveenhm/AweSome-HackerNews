@@ -49,6 +49,7 @@ Threads,
 
 #### Algorithms,
 -[Algorithms](http://interactivepython.org/courselib/static/pythonds/index.html)
+- [DataStructures and algorithms](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 #### Java best practices,
 
