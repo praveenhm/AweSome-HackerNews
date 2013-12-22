@@ -32,6 +32,9 @@
 
 - [online resouces](https://www.quora.com/Job-Interview-Questions/What-are-good-free-online-resources-to-prep-for-code-interviews)
 
+- [interview questions](https://news.ycombinator.com/item?id=6949474)
+-  [Steve yegge google interview quesiton](http://steve-yegge.blogspot.ca/2008/03/get-that-job-at-google.html)
+
 Threads,
 
 - [concurency](https://news.ycombinator.com/item?id=6560214)
