@@ -71,7 +71,7 @@ Threads,
 
 - [Inside the java virtuall machine, Garbage collector](http://www.artima.com/insidejvm/ed2/gcP.html)
 
-
+-[Jvm garbage collection oracle doc](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
 
 
 
