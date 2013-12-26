@@ -6,3 +6,8 @@
 
 
 -[About Dockers](https://news.ycombinator.com/item?id=6888623)
+
+
+#### Issues with technology,
+
+-[why spring framework sucks](https://news.ycombinator.com/item?id=6963041)
