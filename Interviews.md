@@ -73,7 +73,7 @@ Threads,
 
 -[Jvm garbage collection oracle doc](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html)
 
-
+- [ruby garbage collection](http://tmm1.net/ruby21-rgengc/)
 
 
 
