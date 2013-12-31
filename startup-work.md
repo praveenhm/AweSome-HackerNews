@@ -90,3 +90,6 @@ I iphone app
 #### Email introduction,
 
 - [Email introduction](https://news.ycombinator.com/item?id=6901713)
+
+#### Additional income,
+-[after quitting job](http://nathanbarry.com/2013-review/)
