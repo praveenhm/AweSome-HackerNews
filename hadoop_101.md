@@ -29,6 +29,8 @@ HBase tutorial:
 - [Hbase basic](http://jimbojw.com/wiki/index.php?title=Understanding_HBase_and_BigTable)
 - [Hbase storage Architecture](http://www.larsgeorge.com/2009/10/hbase-architecture-101-storage.html)
 
+-[good hadoop/hbase blog](http://kickstarthadoop.blogspot.com/)
+
 hadoop at twitter:
 - http://architects.dzone.com/articles/how-does-twitter-use-scribe
 
