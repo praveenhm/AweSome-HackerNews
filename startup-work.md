@@ -25,7 +25,7 @@
 #### startup company,
 - [web scraping](https://github.com/propublica/upton)
 - [YQL another famous scarping tool](http://developer.yahoo.com/yql/guide/yql-code-examples.html)
-
+-[startup tips](http://www.paperv.com/story/939/startup-quotes/)
 
 #### startup raise money
 -[How to raise money first time](http://wadefoster.net/post/58039721398/how-to-raise-money-as-a-first-time-founder)
