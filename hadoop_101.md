@@ -9,6 +9,7 @@
 - [A good intro to hadoop](http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/)
 - [HBase debate](http://www.informationweek.com/software/enterprise-applications/big-data-debate-will-hbase-dominate-nosq/240159475)
 
+-[Thinking Hadoop with mapreduce](http://blog.xebia.com/2009/07/02/thinking-mapreduce-with-hadoop/)
 
 #### variou hadoop framework comparisons,
 - [Amazon Redshift](http://dailytechnology.net/2013/08/03/redshift-what-you-need-to-know/)
