@@ -35,7 +35,9 @@ HBase tutorial:
 hadoop at twitter:
 - http://architects.dzone.com/articles/how-does-twitter-use-scribe
 
+#### Search,
 
+-[Elastic search](http://blog.klout.com/2011/12/find-your-klout/)
 WEBSITE for Hadoop:
 
 -[hstack](http://hstack.org/)
