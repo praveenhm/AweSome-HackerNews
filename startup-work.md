@@ -1,6 +1,7 @@
 #### Hire contract developers
 - [hire contract developers](http://www.trevormckendrick.com/contracting-developers/)
 - [comments..](https://news.ycombinator.com/item?id=5713159)
+- [hire contract developers](https://news.ycombinator.com/item?id=7064469)
 
 #### on startup website
 - [onstartup website ](http://onstartups.com/)
