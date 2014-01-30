@@ -8,6 +8,8 @@
 - [venture hacks](http://venturehacks.com/)
 - [startup advice](https://iamwil.posterous.com/i-got-into-yc-after-applying-six-times-heres/)
 
+#### How to,
+- [how to work offtime at home](http://impossiblehq.com/workstation-popcorn)
 
 #### Startup stock options gotcha
 - [startup stock options are useless](http://benjyboxer.com/post/55714250364/the-real-value-of-stock-options)
