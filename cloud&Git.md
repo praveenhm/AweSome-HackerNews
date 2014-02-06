@@ -4,7 +4,7 @@
 
 -[Things I had knew about AWS](https://news.ycombinator.com/item?id=7172060)
 
-
+-[Save on AWS](https://news.ycombinator.com/item?id=7184179)
 
 #### Git,
 
