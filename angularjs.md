@@ -46,3 +46,7 @@ h2 helpful Angular tips
 
 ##### Go lang web framework
 - [go lan web framework](https://news.ycombinator.com/item?id=6801024)
+
+### side effect of angularjs
+- [side effect of Javascript framework](https://news.ycombinator.com/item?id=7255227)
+
