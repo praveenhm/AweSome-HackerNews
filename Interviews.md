@@ -1,6 +1,7 @@
 #### Interview,
 - [brain test](http://www.brainmetrix.com/)
 - [coding for interviews](http://codingforinterviews.com/)
+- [Tech interview process](https://news.ycombinator.com/item?id=7259845)
 
 ##### Interviews website
 
