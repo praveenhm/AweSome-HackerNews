@@ -6,3 +6,5 @@
 
 -[next big data](http://venturebeat.com/2013/12/28/big-data-2-0-the-next-generation-of-big-data/)
 
+
+ -[big data analytics read](http://johnnunemaker.com/analytics-at-github/)
