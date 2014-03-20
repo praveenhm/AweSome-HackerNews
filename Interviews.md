@@ -1,3 +1,8 @@
+#### interview experience
+- [Interview expeience](http://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/)
+- [Follow-up hacknews](https://news.ycombinator.com/item?id=7428469)
+
+
 #### Interview,
 - [brain test](http://www.brainmetrix.com/)
 - [coding for interviews](http://codingforinterviews.com/)
