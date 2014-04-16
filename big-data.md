@@ -10,6 +10,7 @@
  -[big data analytics read](http://johnnunemaker.com/analytics-at-github/)
  
  
- #### Twitter Firehose data
+#### Twitter Firehose data
  
  -[Gnip](www.gnip.com)
+ -[datasift](www.datasift.com)
