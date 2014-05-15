@@ -1,5 +1,5 @@
 Modern web framework
- - [the new Reac js framework better than Anjurlarjs](https://news.ycombinator.com/item?id=7738194)
+ - [the new React js framework better than Anjurlarjs](https://news.ycombinator.com/item?id=7738194)
 
 h2 helpful Angular tips
 - [startig Angular](http://blog.whydoifollow.com/post/angularjs-where-to-start)
