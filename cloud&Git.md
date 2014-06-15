@@ -11,3 +11,6 @@
 -[Use Git effectively](http://devcharm.com/pages/46-improve-your-git-workflow)
 
 -[simple Git use](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)
+
+#### Big Data Cloud
+-[qubole - Big data on cloud](http://www.qubole.com/)
