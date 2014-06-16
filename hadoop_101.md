@@ -1,3 +1,6 @@
+#### Hadoop Blog,
+-[Good one Hadoop scalable blog](http://highlyscalable.wordpress.com/)
+
 #### Big data,
 
 - [hadoop dead](http://www.dataintoresults.com/2013/04/hadoop-landscape-review-2013/)
