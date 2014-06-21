@@ -1,5 +1,6 @@
 #### Hadoop Blog,
 -[Good one Hadoop scalable blog](http://highlyscalable.wordpress.com/)
+-[Hate hadoop](http://www.chrisstucchio.com/blog/2013/hadoop_hatred.html)
 
 #### Big data,
 
