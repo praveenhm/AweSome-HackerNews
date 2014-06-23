@@ -1,3 +1,7 @@
+#### Statup Failures,
+
+-[A startup failure lesson](https://news.ycombinator.com/item?id=7933155)
+
 #### Hire contract developers
 - [hire contract developers](http://www.trevormckendrick.com/contracting-developers/)
 - [comments..](https://news.ycombinator.com/item?id=5713159)
