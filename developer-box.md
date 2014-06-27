@@ -6,3 +6,8 @@
 
 ####dev ops
 -[bad devops](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/)
+
+
+#### best practices
+
+-[best practices in modern web projects](https://news.ycombinator.com/item?id=7953616)
