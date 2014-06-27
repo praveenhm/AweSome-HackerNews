@@ -7,7 +7,7 @@
 - [brain test](http://www.brainmetrix.com/)
 - [coding for interviews](http://codingforinterviews.com/)
 - [Tech interview process](https://news.ycombinator.com/item?id=7259845)
-
+- [Stupid interview question](https://news.ycombinator.com/item?id=7953725)
 ##### Interviews website
 
 - [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
