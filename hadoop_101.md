@@ -2,6 +2,9 @@
 -[Good one Hadoop scalable blog](http://highlyscalable.wordpress.com/)
 -[Hate hadoop](http://www.chrisstucchio.com/blog/2013/hadoop_hatred.html)
 
+##### Future of MapReduce,
+-[Alternative to mapreduce](https://news.ycombinator.com/item?id=7957345)
+
 #### Big data,
 
 - [hadoop dead](http://www.dataintoresults.com/2013/04/hadoop-landscape-review-2013/)
