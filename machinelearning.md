@@ -9,3 +9,4 @@
 
 #### Machine learning
 -[Machine learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Machine learning](https://news.ycombinator.com/item?id=8061628)
