@@ -1,6 +1,7 @@
 #### Hadoop Blog,
 -[Good one Hadoop scalable blog](http://highlyscalable.wordpress.com/)
 -[Hate hadoop](http://www.chrisstucchio.com/blog/2013/hadoop_hatred.html)
+-[martin kleppman](http://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 
 ##### Future of MapReduce,
 -[Alternative to mapreduce](https://news.ycombinator.com/item?id=7957345)
