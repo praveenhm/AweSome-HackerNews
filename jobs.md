@@ -9,3 +9,6 @@
 #### free learning programming,
 - [learn to code codecademy](http://www.codecademy.com/learn)
 -  [learn to code hardway](http://learncodethehardway.org/)
+
+#### Algorithms,
+- [visualize algorithms](https://news.ycombinator.com/item?id=8194662)
