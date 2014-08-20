@@ -12,3 +12,4 @@
 
 #### Algorithms,
 - [visualize algorithms](https://news.ycombinator.com/item?id=8194662)
+- [Algorithms resource](https://news.ycombinator.com/item?id=8200160)
