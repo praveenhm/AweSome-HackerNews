@@ -19,3 +19,6 @@
 #### machine learning
 
 -[Machine learning airBnB](https://news.ycombinator.com/item?id=7902150)
+
+#### Looking through big data
+ -[shell tools to look through big files](https://news.ycombinator.com/item?id=8232019)
