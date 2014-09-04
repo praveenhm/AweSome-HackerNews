@@ -87,6 +87,8 @@ Threads,
 - [ruby garbage collection](http://tmm1.net/ruby21-rgengc/)
 
 
+###algorithms
+-[visualize algorithms](http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
 
 
 The One Commandment of multithreaded programming,
