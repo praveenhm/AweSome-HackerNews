@@ -100,3 +100,6 @@ I iphone app
 
 #### Additional income,
 -[after quitting job](http://nathanbarry.com/2013-review/)
+
+#### Startup equity options
+-[startup equity options explained](https://news.ycombinator.com/item?id=8270023)
