@@ -67,6 +67,7 @@ I iphone app
 
 #### Pitching startup,
 - [Linkedin pitching in 2004](http://reidhoffman.org/linkedin-pitch-to-greylock/)
+- [startup marketing template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
 
 #### SEO,
  - [what is seo](https://news.ycombinator.com/item?id=6580817)
