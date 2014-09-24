@@ -1,3 +1,6 @@
+#### startup lessons,
+-[Startup lessons](http://tech.genius.com/Sam-altman-how-to-start-a-startup-lecture-1-annotated)
+
 #### Statup Failures,
 
 -[A startup failure lesson](https://news.ycombinator.com/item?id=7933155)
