@@ -1,3 +1,8 @@
+#### Y-combinator
+
+-[how it to be y-combinator](http://blog.frontapp.com/three-months-at-y-combinator-what-its-like-and-how-to-get-in/)
+
+
 #### startup lessons,
 -[Startup lessons](http://tech.genius.com/Sam-altman-how-to-start-a-startup-lecture-1-annotated)
 -[startup lecture lesson 2](http://startupclass.samaltman.com/courses/lec02/)
