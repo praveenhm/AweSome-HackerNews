@@ -11,3 +11,7 @@
 #### best practices
 
 -[best practices in modern web projects](https://news.ycombinator.com/item?id=7953616)
+
+
+#### Mac
+-[Hackers guide to setup mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
