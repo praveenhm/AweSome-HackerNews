@@ -15,3 +15,4 @@
 
 #### Mac
 -[Hackers guide to setup mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
+-[follow up comments](https://news.ycombinator.com/item?id=8402079)
