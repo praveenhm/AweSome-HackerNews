@@ -1,5 +1,6 @@
 #### Y-combinator
 
+-[Y silicon valley works](https://news.ycombinator.com/item?id=8552487)
 -[how it to be y-combinator](http://blog.frontapp.com/three-months-at-y-combinator-what-its-like-and-how-to-get-in/)
 
 
