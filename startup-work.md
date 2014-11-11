@@ -7,6 +7,7 @@
 #### startup lessons,
 -[Startup lessons](http://tech.genius.com/Sam-altman-how-to-start-a-startup-lecture-1-annotated)
 -[startup lecture lesson 2](http://startupclass.samaltman.com/courses/lec02/)
+-[Startup depression](http://startupdepression.com/)
 
 #### Statup Failures,
 
