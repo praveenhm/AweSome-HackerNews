@@ -11,6 +11,7 @@
 -[Startup lessons](http://tech.genius.com/Sam-altman-how-to-start-a-startup-lecture-1-annotated)
 -[startup lecture lesson 2](http://startupclass.samaltman.com/courses/lec02/)
 -[Startup depression](http://startupdepression.com/)
+-[Building startup](https://bloo.ie/blog/building-a-company-brick-by-brick/)
 
 #### Statup Failures,
 
