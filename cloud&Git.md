@@ -6,6 +6,8 @@
 
 -[Save on AWS](https://news.ycombinator.com/item?id=7184179)
 
+-[Amazon s3 mistake](https://news.ycombinator.com/item?id=8817299)
+
 #### Git,
 
 -[Use Git effectively](http://devcharm.com/pages/46-improve-your-git-workflow)
