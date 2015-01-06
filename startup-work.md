@@ -1,3 +1,7 @@
+#### website generator
+-[static web site geneartor](http://cactusformac.com/)
+
+
 #### Side projects
 -[Making money on side projects](https://news.ycombinator.com/item?id=8844083)
 
