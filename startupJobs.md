@@ -1,7 +1,7 @@
 #### Startup companies
 - [infer](https://www.infer.com/)
 - [throwout your resume](http://throw-out-your-resume.com/)
-- [e-commerce digital](http://www.boomerangcommerce.com/)
+- [e-commerce digital-Boomerang](http://www.boomerangcommerce.com/)
  
 #### Good resume 
 - [Ron resume ](http://www.flownet.com/ron/resume.html)
