@@ -1,3 +1,7 @@
+### Bullshiting big data
+-[command line better than hadoop](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+-[Same with comments](https://news.ycombinator.com/item?id=8908462)
+
 #### all about big data
 -[most big data isn't big](http://qz.com/81661/most-data-isnt-big-and-businesses-are-wasting-money-pretending-it-is/)
 -[StockTwits socail stock](http://stocktwits.com/)
