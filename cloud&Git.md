@@ -8,6 +8,8 @@
 
 -[Amazon s3 mistake](https://news.ycombinator.com/item?id=8817299)
 
+- [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed)
+
 #### Git,
 
 -[Use Git effectively](http://devcharm.com/pages/46-improve-your-git-workflow)
