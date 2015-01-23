@@ -1,3 +1,6 @@
+#### 2015 Things to do
+- [16 things in startup](http://a16z.com/2015/01/22/16-things/)
+
 #### website generator
 -[static web site geneartor](http://cactusformac.com/)
 
