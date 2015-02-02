@@ -2,6 +2,7 @@
 - [infer](https://www.infer.com/)
 - [throwout your resume](http://throw-out-your-resume.com/)
 - [e-commerce digital-Boomerang](http://www.boomerangcommerce.com/)
+-  [Technology in 2015 ](http://a16z.com/2015/01/22/16-things/)
  
 #### Good resume 
 - [Ron resume ](http://www.flownet.com/ron/resume.html)
