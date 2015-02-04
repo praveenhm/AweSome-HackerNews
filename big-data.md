@@ -3,6 +3,8 @@
 
 -[Same with comments](https://news.ycombinator.com/item?id=8908462)
 
+- [Getting phd for software engineer](https://news.ycombinator.com/item?id=8996024)
+
 #### all about big data
 -[most big data isn't big](http://qz.com/81661/most-data-isnt-big-and-businesses-are-wasting-money-pretending-it-is/)
 -[StockTwits socail stock](http://stocktwits.com/)
