@@ -1,6 +1,6 @@
 #### 2015 Things to do
 - [16 things in startup](http://a16z.com/2015/01/22/16-things/)
--[startup sales-agreement](http://blog.ycombinator.com/yc-open-source-sales-agreement)
+- [startup sales-agreement](http://blog.ycombinator.com/yc-open-source-sales-agreement)
 
 #### website generator
 -[static web site geneartor](http://cactusformac.com/)
