@@ -3,6 +3,7 @@
 
 #### Performance
 -[Javascript performance measure](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
+- [Java performance tuning](http://shipilev.net/blog/2015/black-magic-method-dispatch/)
 
 
 #### interview experience
