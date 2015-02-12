@@ -2,7 +2,7 @@
 - [Translating Math into Java code, set, unions,maps](http://matt.might.net/articles/discrete-math-and-code/)
 
 #### Performance
--[Javascript performance measure](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
+- [Javascript performance measure](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
 - [Java performance tuning](http://shipilev.net/blog/2015/black-magic-method-dispatch/)
 
 
