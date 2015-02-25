@@ -1,3 +1,8 @@
+#### Interview
+- [Interview experience at apple](https://lmjabreu.com/post/700-billion/)
+- [follow up comments ](https://news.ycombinator.com/item?id=9104818)
+
+
 ####  Math
 - [Translating Math into Java code, set, unions,maps](http://matt.might.net/articles/discrete-math-and-code/)
 
