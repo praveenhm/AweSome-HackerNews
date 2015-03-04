@@ -2,6 +2,7 @@
 - [Interview experience at apple](https://lmjabreu.com/post/700-billion/)
 - [follow up comments ](https://news.ycombinator.com/item?id=9104818)
 - [screwed up the interview](http://blog.ellenchisa.com/2014/04/13/stuff-ive-screwed-up-while-interviewing/)
+- [Follow up comments](https://news.ycombinator.com/item?id=9142871)
 
 ####  Math
 - [Translating Math into Java code, set, unions,maps](http://matt.might.net/articles/discrete-math-and-code/)
