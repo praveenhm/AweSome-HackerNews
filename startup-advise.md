@@ -45,6 +45,7 @@
 - [how to work offtime at home](http://impossiblehq.com/workstation-popcorn)
 
 #### Startup stock options gotcha
+- [startup stock options](http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your)
 - [startup stock options are useless](http://benjyboxer.com/post/55714250364/the-real-value-of-stock-options)
 - [hacker news comment on the above](https://news.ycombinator.com/item?id=6060143)
 
