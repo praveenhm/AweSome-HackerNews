@@ -1,4 +1,4 @@
-Top 5 Repos from the DonX77.
+Top 5 Repos for Kodi.
 -  http://xfinity.xunitytalk.com
 -  http://fusion.tvaddons.ag
 -  http://i.totalxbmc.tv
