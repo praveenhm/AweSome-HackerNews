@@ -1,3 +1,6 @@
+#### Spark
+-[Apache spark analysis](https://haifengl.wordpress.com/2014/08/18/big-data-analytics-spark/)
+
 ### Bullshiting big data
 -[command line better than hadoop](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 
