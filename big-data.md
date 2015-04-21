@@ -3,6 +3,7 @@
 
 -[hdfs data into solr using Spark](http://qconlondon.com/system/files/presentation-slides/QCon2015-IngestingHDFSIntoSolrUsingSparkTrimmed_0.pdf)
 
+-[Using spark in large scale](http://www.slideshare.net/databricks/large-scalesparktalk)
 ### Bullshiting big data
 -[command line better than hadoop](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 
