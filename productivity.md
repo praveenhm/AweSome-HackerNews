@@ -5,3 +5,9 @@
 
 -[Transform anything with one example](http://www.transformy.io/#/)
 -[Hacker comment on this](https://news.ycombinator.com/item?id=9432949)
+
+
+
+#### Cloning a website
+
+-[Clone a website](http://motherboard.vice.com/read/clone-zone-is-an-easy-tool-for-building-fake-websites)
