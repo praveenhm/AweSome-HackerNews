@@ -30,3 +30,7 @@
 #### DIY
 
 -[Best online course](http://www.diygenius.com/mind-expanding-documentaries/)
+
+
+#### Fun with facebook
+-[Facebook messenger](https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d)
