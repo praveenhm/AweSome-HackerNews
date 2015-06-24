@@ -2,6 +2,8 @@
 - [Hacker challenge](https://www.hackerrank.com/)
 
 - [30 interviews](http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days)
+-[Follow up comment](https://news.ycombinator.com/item?id=9766816) 
+
 #### Interview
 - [Interview candidates](http://ericlippert.com/2015/06/08/interviewing-candidates/)
 - [Interview experience at apple](https://lmjabreu.com/post/700-billion/)
