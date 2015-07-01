@@ -88,6 +88,9 @@ Threads,
 -[Algorithms](http://interactivepython.org/courselib/static/pythonds/index.html)
 - [DataStructures and algorithms](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Problem solving with Algorithms and data structure](http://interactivepython.org/runestone/static/pythonds/index.html)
+- [HashMap explained](http://elbenshira.com/blog/the-universal-data-structure/)
+- [followup comments](https://news.ycombinator.com/item?id=9804777)
+
 
 #### Java best practices,
 
