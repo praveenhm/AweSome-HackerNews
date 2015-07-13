@@ -1,3 +1,7 @@
+##### Hadoop and hive programming example
+- [hadoop and hive examples](https://sites.google.com/site/hadoopandhive/)
+
+
 #### Programming challenges
 - [Hacker challenge](https://www.hackerrank.com/)
 
