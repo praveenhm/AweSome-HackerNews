@@ -39,3 +39,6 @@
 
 #### Looking through big data
  -[shell tools to look through big files](https://news.ycombinator.com/item?id=8232019)
+
+#### Data science
+-[Data science bascis](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
