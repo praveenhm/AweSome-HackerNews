@@ -11,7 +11,8 @@
 
 #### Side projects
 -[Making money on side projects](https://news.ycombinator.com/item?id=8844083)
-
+-[ a linkedin hack that led to 120K](http://thehustle.co/the-linkedin-hack-that-made-me-120000)
+-[follow up comments](https://news.ycombinator.com/item?id=9957083)
 
 ##### build website
 -[Build stellar startup website](http://letstalkover.coffee/)
@@ -20,6 +21,7 @@
 
 -[Y silicon valley works](https://news.ycombinator.com/item?id=8552487)
 -[how it to be y-combinator](http://blog.frontapp.com/three-months-at-y-combinator-what-its-like-and-how-to-get-in/)
+
 
 
 #### startup lessons,
