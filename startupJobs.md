@@ -14,3 +14,5 @@
 - [data based company palantir](http://www.palantir.com/)
 
 - [An engineer guide to Stock options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options) 
+##### companies in sunnyvale in media
+-[statup company in sunnyvale](http://sysomos.com/contact)
