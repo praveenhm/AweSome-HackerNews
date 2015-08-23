@@ -8,6 +8,8 @@
 #### website generator
 -[static web site geneartor](http://cactusformac.com/)
 
+#### product management
+- [Product mangement](http://yilunzh.com/pm/)
 
 #### Side projects
 -[Making money on side projects](https://news.ycombinator.com/item?id=8844083)
