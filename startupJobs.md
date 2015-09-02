@@ -16,3 +16,6 @@
 - [An engineer guide to Stock options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options) 
 ##### companies in sunnyvale in media
 -[statup company in sunnyvale](http://sysomos.com/contact)
+
+#### hacker new job posting
+-[septemeber job ](https://news.ycombinator.com/item?id=10152809)
