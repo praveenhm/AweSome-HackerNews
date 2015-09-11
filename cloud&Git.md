@@ -18,3 +18,7 @@
 
 #### Big Data Cloud
 -[qubole - Big data on cloud](http://www.qubole.com/)
+
+#### Amazon Web service
+
+-[Amazon web service](https://www.expeditedssl.com/aws-in-plain-english)
