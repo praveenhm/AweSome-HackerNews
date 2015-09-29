@@ -10,6 +10,8 @@
 
 #### Interview
 
+- [Kotlin](https://realm.io/news/droidcon-michael-pardo-kotlin/)
+
 - [Hiring top performer](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 - [follow up on hacker news](https://news.ycombinator.com/item?id=10290882)
 - [Interview candidates](http://ericlippert.com/2015/06/08/interviewing-candidates/)
