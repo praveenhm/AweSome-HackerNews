@@ -1,3 +1,7 @@
+####Helpful desing doc
+-[Helpful design doc template](https://issues.apache.org/jira/secure/attachment/12693526/SparkYARN.pdf)
+
+
 ##### Hadoop and hive programming example
 - [hadoop and hive examples](https://sites.google.com/site/hadoopandhive/)
 
