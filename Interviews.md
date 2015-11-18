@@ -4,6 +4,8 @@
 
 -[Java 8 tutorial follow up ](https://news.ycombinator.com/item?id=10573399)
 
+### java performance blog
+-[java performance blog takipi](http://blog.takipi.com/)
 ####Helpful desing doc
 -[Helpful design doc template](https://issues.apache.org/jira/secure/attachment/12693526/SparkYARN.pdf)
 
