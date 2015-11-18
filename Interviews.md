@@ -1,6 +1,7 @@
 ### Java 8
 
 -[Guide to Java 8](https://github.com/winterbe/java8-tutorial)
+
 -[Java 8 tutorial follow up ](https://news.ycombinator.com/item?id=10573399)
 
 ####Helpful desing doc
