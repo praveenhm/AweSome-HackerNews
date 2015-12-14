@@ -9,3 +9,6 @@
 -[again uber data](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
 
 
+#### Content marketing
+
+-[Content marketing hand book](http://priceonomics.com/the-content-marketing-handbook/)
