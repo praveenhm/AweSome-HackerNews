@@ -66,6 +66,7 @@ JOBs:
 - [spring REST authentication](http://www.javacodegeeks.com/2012/05/how-to-use-resttemplate-with-basic.html)
 - [Best practices ](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?hn)
 - [RestFul api design](http://info.apigee.com/Portals/62317/docs/web%20api.pdf)
+- [what RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means)
 
 
 #### Front End design,
