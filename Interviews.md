@@ -6,7 +6,8 @@
 
 ### java performance blog
 -[java performance blog takipi](http://blog.takipi.com/)
--[Java memory guide, best for interview]()
+-[Java memory guide, best for interview](https://www.ravenbrook.com/project/mps/master/manual/html/mmref/lang.html)
+
 ####Helpful desing doc
 -[Helpful design doc template](https://issues.apache.org/jira/secure/attachment/12693526/SparkYARN.pdf)
 
