@@ -8,6 +8,9 @@
 #### website generator
 -[static web site geneartor](http://cactusformac.com/)
 
+#### Fund raising
+-[Seed fund raising](http://themacro.com/articles/2016/01/how-to-raise-a-seed-round/)
+
 #### product management
 - [Product mangement](http://yilunzh.com/pm/)
 
