@@ -11,6 +11,8 @@
 
 -[Kafka + flinch](http://data-artisans.com/kafka-flink-a-practical-how-to/)
 
+-[Kafka by example](http://logallthethings.com/2015/09/15/kafka-by-example-kafka-as-unix-pipes/)
+
 
 ### Solr, morphline
 
