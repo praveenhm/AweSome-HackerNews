@@ -8,6 +8,10 @@
 #### website generator
 -[static web site geneartor](http://cactusformac.com/)
 
+-[Hosting web site expenses, good one](http://cushionapp.com/expenses/)
+-[follow-up comments Hackernews](https://news.ycombinator.com/item?id=10875879)
+
+
 #### Fund raising
 -[Seed fund raising](http://themacro.com/articles/2016/01/how-to-raise-a-seed-round/)
 
