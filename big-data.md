@@ -8,6 +8,10 @@
 -[hdfs data into solr using Spark](http://qconlondon.com/system/files/presentation-slides/QCon2015-IngestingHDFSIntoSolrUsingSparkTrimmed_0.pdf)
 
 -[Using spark in large scale](http://www.slideshare.net/databricks/large-scalesparktalk)
+
+-[Kafka + flinch](http://data-artisans.com/kafka-flink-a-practical-how-to/)
+
+
 ### Solr, morphline
 
 -[cloudera, morphline, solr](http://techkites.blogspot.com/2015/02/near-line-search-indexing-using-hbase.html)
