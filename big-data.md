@@ -13,6 +13,8 @@
 
 -[Kafka by example](http://logallthethings.com/2015/09/15/kafka-by-example-kafka-as-unix-pipes/)
 
+-[Spark performance](http://multithreaded.stitchfix.com/blog/2015/10/06/spark-for-data-science/)
+
 ##### Yarn tutorial
 
 -[Yarn tutorial cloudera](http://blog.cloudera.com/blog/2015/09/untangling-apache-hadoop-yarn-part-1/)
