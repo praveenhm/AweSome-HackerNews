@@ -5,6 +5,9 @@
 - [online marketing ](https://growthhackers.com/)
 - [57 Startup advice](http://www.defmacro.org/2013/07/23/startup-lessons.html)
 
+#### Startup gotchas
+-[When to join startup](http://tomblomfield.com/post/136759441870/when-to-join-a-startup)
+
 #### website generator
 -[static web site geneartor](http://cactusformac.com/)
 
