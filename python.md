@@ -6,3 +6,8 @@ Python script
 -[datascience python editor](http://rodeo.yhat.com/)
 
 -[python programming](https://pythonprogramming.net/)
+
+
+### Python tutorial
+
+-[Python flask tutorial](https://pythonprogramming.net/web-development-tutorials/)
