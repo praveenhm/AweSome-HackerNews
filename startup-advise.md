@@ -1,3 +1,6 @@
+#### 2016 Startups Y combinartor
+-[How to start a startups Videos](http://startupclass.samaltman.com/)
+
 #### 2015 Things to do
 - [Startup failure lessons](http://autopsy.io/)
 - [16 things in startup](http://a16z.com/2015/01/22/16-things/)
