@@ -2,6 +2,8 @@
 
 - [fake online locksmith](http://www.nytimes.com/2016/01/31/business/fake-online-locksmiths-may-be-out-to-pick-your-pocket-too.html)
 
+-[2016 best skills](http://blog.linkedin.com/2016/01/12/the-25-skills-that-can-get-you-hired-in-2016/)
+
 #### Airline booking,
 
 - [itasoftware](https://www.itasoftware.com/)
