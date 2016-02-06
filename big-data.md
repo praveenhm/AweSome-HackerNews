@@ -2,6 +2,8 @@
 
 -[Big data performance](http://www.bigsynapse.com/addressing-big-data-performance)
 
+-[streaming benchmarking](http://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at)
+
 #### Spark
 -[Apache spark analysis](https://haifengl.wordpress.com/2014/08/18/big-data-analytics-spark/)
 
