@@ -1,3 +1,7 @@
+#### Bigdata streaming
+
+-[Beyond batch - streaming](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+
 #### Bigdata performance,
 
 -[Big data performance](http://www.bigsynapse.com/addressing-big-data-performance)
