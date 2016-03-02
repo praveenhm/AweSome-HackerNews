@@ -8,8 +8,8 @@
 -[bad devops](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/)
 
 -[Monitor Errors/Exceptions] (https://airbrake.io/)
--[](https://rollbar.com/)
--[](https://github.com/errbit/errbit (can be hosted on Heroku for free)
+-[roll](https://rollbar.com/)
+-[errbit](https://github.com/errbit/errbit (can be hosted on Heroku for free)
 
 #### best practices
 
