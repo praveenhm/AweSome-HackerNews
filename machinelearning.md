@@ -2,6 +2,7 @@
 #### Machine learning
 -[machine learning resource](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
+-[Deep Learning:Introduction](http://neuralnetworksanddeeplearning.com/index.html)
 
 #### Algorithms
 -[visualizing algorithms](https://news.ycombinator.com/item?id=7949995)
