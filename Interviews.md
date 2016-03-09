@@ -2,6 +2,7 @@
 
 -[Do the programming interviews](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 
+-[Follow up to the above post](https://news.ycombinator.com/item?id=11246917)
 
 ### Java 8
 
