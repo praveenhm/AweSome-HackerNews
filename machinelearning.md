@@ -1,6 +1,15 @@
 
 #### Open source machine learning framework
 -[caffee](http://caffe.berkeleyvision.org/)
+-[caffeeonspark](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep?soc_src=mail&soc_trk=ma)
+
+-[machine learning classification](https://www.mapr.com/blog/apache-spark-machine-learning-tutorial)
+
+-[Spark/Flink streaming](http://blog.madhukaraphatak.com/)
+
+-[spark tutoril](http://www.lab41.org/transformers-rdd-in-disguise/)
+
+
 
 #### Machine learning
 -[machine learning resource](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
