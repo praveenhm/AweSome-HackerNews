@@ -9,6 +9,7 @@
 
 -[spark tutoril](http://www.lab41.org/transformers-rdd-in-disguise/)
 
+-[Machine learning basics](https://medium.com/innoarchitech-innovation-architecture-technology)
 
 
 #### Machine learning
