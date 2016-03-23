@@ -1,3 +1,8 @@
+#### Startup Ideas
+
+-[Startup finder markmatters](https://mattermark.com/)
+
+
 #### 2016 Startups Y combinartor
 -[How to start a startups Videos](http://startupclass.samaltman.com/)
 
