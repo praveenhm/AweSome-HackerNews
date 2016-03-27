@@ -1,6 +1,8 @@
 #### Interview Questions
 -[Epic list of interview questions](http://katemats.com/interview-questions/)
 
+-[How to pass programming interviews](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
+
 
 #### Interview books
 
