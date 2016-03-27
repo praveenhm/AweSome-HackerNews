@@ -3,6 +3,7 @@
 
 -[How to pass programming interviews](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 
+-[Tech salary](https://docs.google.com/spreadsheets/d/1a1Df6dg2Pby1UoNlZU2l0FEykKsQKttu7O6q7iQd2bU/htmlview?usp=sharing&sle=true)
 
 #### Interview books
 
