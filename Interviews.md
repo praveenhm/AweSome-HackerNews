@@ -5,6 +5,8 @@
 -[Interview.io](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/)
 
 #### Interview Questions
+-[Data Structures and Algorith with answers](http://www.ideserve.co.in/)
+
 -[Epic list of interview questions](http://katemats.com/interview-questions/)
 
 -[How to pass programming interviews](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
