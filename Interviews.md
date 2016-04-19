@@ -32,6 +32,7 @@
 -[java performance blog takipi](http://blog.takipi.com/)
 
 -[Java memory guide, best for interview](https://www.ravenbrook.com/project/mps/master/manual/html/mmref/lang.html)
+
 -[Java memory garbage collector ](http://eivindw.github.io/2016/01/08/comparing-gc-collectors.html)
 
 ####Helpful desing doc
