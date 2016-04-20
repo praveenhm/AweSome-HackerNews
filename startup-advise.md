@@ -2,6 +2,7 @@
 
 -[Startup Legal setup guide](https://medium.com/@howietl/the-startup-legal-setup-guide-439b63bf68e8#.p2v0yf8uo)
 
+-[startup legal](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx)
 
 #### Startup Ideas
 
