@@ -1,3 +1,8 @@
+#### Salary
+
+-[google, microsoft, amazon salary](https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/)
+
+
 #### Startup companies
 - [infer](https://www.infer.com/)
 - [throwout your resume](http://throw-out-your-resume.com/)
