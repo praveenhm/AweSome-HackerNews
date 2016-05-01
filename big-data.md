@@ -2,6 +2,7 @@
 
 -[Beyond batch - streaming](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 
+- [PipeLine map](http://insightdataengineering.com/blog/pipeline_map.html)
 #### Bigdata performance,
 
 -[Big data performance](http://www.bigsynapse.com/addressing-big-data-performance)
