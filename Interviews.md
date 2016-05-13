@@ -2,6 +2,9 @@
 
 -[top 10 programming questions](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
+-[CareerCup Trees Graphs](https://www.careercup.com/page?pid=trees-and-graphs-interview-questions)
+
+-[Geeksforgeeks top 10 intervew q](http://www.geeksforgeeks.org/top-25-interview-questions/)
 
 -[HackerRank](https://www.hackerrank.com/feed)
 
