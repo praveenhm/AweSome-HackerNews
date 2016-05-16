@@ -1,3 +1,9 @@
+####### DataFormat
+
+-[File format comparison](http://www.slideshare.net/Hadoop_Summit/format-wars-from-vhs-and-beta-to-avro-and-parquet?qid=80f62225-88b2-491e-8714-8d42ab2d3842&v=&b=&from_search=1)
+
+-[Video of the same](https://www.youtube.com/watch?v=DmocGNWHcg4&index=4&list=PLrZjruCybOrumEIBpjI6cSkJOrTo247q3)
+
 ####HBase
 -[HBase schema design](http://hbase.apache.org/book.html#schema.casestudies)
 
