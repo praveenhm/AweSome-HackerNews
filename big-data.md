@@ -1,3 +1,6 @@
+####HBase
+-[HBase schema design](http://hbase.apache.org/book.html#schema.casestudies)
+
 #### Bigdata streaming
 
 -[Beyond batch - streaming](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
