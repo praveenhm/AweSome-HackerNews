@@ -1,3 +1,8 @@
+#### Tutorial
+
+-[Hbase tutorial](http://www.cloudera.com/resources/hbasecon/video-hbasecon-2012-hbasecon-2012.html#)
+
+
 ####### DataFormat
 
 -[File format comparison](http://www.slideshare.net/Hadoop_Summit/format-wars-from-vhs-and-beta-to-avro-and-parquet?qid=80f62225-88b2-491e-8714-8d42ab2d3842&v=&b=&from_search=1)
