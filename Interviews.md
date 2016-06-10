@@ -1,3 +1,9 @@
+#### Techinical interview sucks.
+
+-[You suck at technical interview](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
+-[Follow up](https://news.ycombinator.com/item?id=11874584)
+
+
 #### Interview website
 
 -[top 10 programming questions](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
