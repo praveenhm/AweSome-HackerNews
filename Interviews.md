@@ -1,3 +1,7 @@
+##### Tech interviews at various company.
+
+-[Tech interview at Amazon](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
+
 ####coarse era material ###########
 
 -[Coursea archive](https://archive.org/details/archiveteam_coursera)
