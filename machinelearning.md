@@ -1,3 +1,8 @@
+###### Machine learning tutorials ############
+
+-[Machine learning tutorials](http://ciml.info/)
+
+
 
 #### Open source machine learning framework
 -[caffee](http://caffe.berkeleyvision.org/)
