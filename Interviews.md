@@ -1,3 +1,7 @@
+#### Interview
+
+-[NoSQL database comparison](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.14guit9rr)
+
 ##### Tech interviews at various company.
 
 -[Tech interview at Amazon](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
