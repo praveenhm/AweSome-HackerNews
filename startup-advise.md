@@ -1,5 +1,6 @@
 #### Starting a Startup
 
+-[Y combinator Tech stack up](http://themacro.com/articles/2016/08/yc-tech-stacks/)
 -[Building something like Instagram](http://mlsdev.com/en/blog/70-how-to-develop-an-app-like-instagram)
 
 -[Startup Legal setup guide](https://medium.com/@howietl/the-startup-legal-setup-guide-439b63bf68e8#.p2v0yf8uo)
