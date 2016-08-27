@@ -4,6 +4,8 @@
 
 ##### Tech interviews at various company.
 
+-[Interview process](https://blog.readme.io/how-we-designed-our-interview-process/)
+
 -[Tech interview at Amazon](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
 
 ####coarse era material ###########
