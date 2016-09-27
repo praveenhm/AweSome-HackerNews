@@ -2,6 +2,8 @@
 
 -[NoSQL database comparison](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.14guit9rr)
 
+-[Streaming process comparison](https://www.alooma.com/blog/stream-processing-101)
+
 ##### Tech interviews at various company.
 
 -[Interview process](https://blog.readme.io/how-we-designed-our-interview-process/)
