@@ -1,6 +1,8 @@
 ######Health
 
 -[body building](https://www.julian.com/learn/muscle/intro)
+-[follow up ](https://news.ycombinator.com/item?id=12618223)
+
 -[Reditt-body building](https://www.reddit.com/r/Fitness/wiki/index)
 
 
