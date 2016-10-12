@@ -1,5 +1,7 @@
 #### AWS,
 
+ -[Guide to amazon web services](https://github.com/open-guides/og-aws)
+
 -[bit coin on AWS](https://news.ycombinator.com/item?id=6911908)
 
 -[Things I had knew about AWS](https://news.ycombinator.com/item?id=7172060)
