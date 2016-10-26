@@ -8,6 +8,10 @@
 
 -[startup legal](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx)
 
+##### start-up Stories
+
+-[A startup story](https://www.indiehackers.com/businesses/instapainting)
+
 #### Startup Ideas
 
 -[Startup finder markmatters](https://mattermark.com/)
