@@ -1,3 +1,10 @@
+
+#### TV
+
+-[Selecting TV ](http://www.snarky.ca/what-to-look-for-in-a-new-tv)
+- [TV reviews](http://ca.rtings.com/tv)
+- [TV wire cutter](http://thewirecutter.com/leaderboard/tvs/)
+
 ######Health
 
 -[body building](https://www.julian.com/learn/muscle/intro)
