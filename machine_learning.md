@@ -1,5 +1,7 @@
 ###### Machine learning tutorials ############
 
+-[Introduction to Machine learning](http://blog.algorithmia.com/introduction-machine-learning-developers/)
+
 -[Machine learning tutorials](http://ciml.info/)
 
 -[Machine learning exercises in python](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
