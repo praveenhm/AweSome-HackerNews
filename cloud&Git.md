@@ -12,6 +12,10 @@
 
 - [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed)
 
+
+-[cloud comparision GCE vs AWS](https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/)
+
+
 ##### Docker
 
 -[cloud docker](https://hyper.sh/)
