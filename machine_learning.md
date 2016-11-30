@@ -1,5 +1,7 @@
 ###### Machine learning tutorials ############
 
+-[Predictive analytics 101](http://data36.com/predictive-analytics-101-part-1/)
+
 -[Introduction to Machine learning](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 
 -[Machine learning tutorials](http://ciml.info/)
