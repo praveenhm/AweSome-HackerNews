@@ -39,6 +39,8 @@
 #### website generator
 -[static web site geneartor](http://cactusformac.com/)
 
+-[Static web site generator](http://launchaco.com/build/)
+
 -[Hosting web site expenses, good one](http://cushionapp.com/expenses/)
 -[follow-up comments Hackernews](https://news.ycombinator.com/item?id=10875879)
 
@@ -85,6 +87,7 @@
 - [onstartup website ](http://onstartups.com/)
 - [venture hacks](http://venturehacks.com/)
 - [startup advice](https://iamwil.posterous.com/i-got-into-yc-after-applying-six-times-heres/)
+
 
 #### How to,
 - [how to work offtime at home](http://impossiblehq.com/workstation-popcorn)
