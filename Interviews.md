@@ -4,6 +4,9 @@
 
 -[Streaming process comparison](https://www.alooma.com/blog/stream-processing-101)
 
+-[pipeline map data engineering](https://blog.insightdatascience.com/the-new-data-engineering-ecosystem-trends-and-rising-stars-414a1609d4a0#.thphny7xx)
+
+
 ##### Tech interviews at various company.
 
 -[Interview process](https://blog.readme.io/how-we-designed-our-interview-process/)
