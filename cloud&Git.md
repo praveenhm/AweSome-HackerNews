@@ -18,6 +18,16 @@
 -[cloud comparision GCE vs AWS](https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/)
 
 
+##### cheap cloud
+
+Amazon Lightsail 1GB is no match for $10 VPS from Linode, DO, Vultr...
+Dec 06 2016
+TLDR: Amazon Lightsail 1GB will melt down with less than 15% sustained cpu usage
+
+Amazon Lightsail launched to much fanfare last week, threatening the business of competitors like DigitalOcean, Linode, OVH, Atlantic.net and many others who have long offered simple, cheap, all-included price VPS servers.
+
+At VpsBenchmarks, we specialize in testing this type of VPS so we wasted no time firing up an instance of the 1GB 1 core $10 flavor of Lightsail. I setup our web app on this VPS, pointed traffic at it and also ran Sysbench tests.
+
 ##### Docker
 
 -[cloud docker](https://hyper.sh/)
