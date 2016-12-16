@@ -9,6 +9,8 @@
 
 ##### Tech interviews at various company.
 
+-[Prepartion for google interview](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.7zc4h6vtr)
+
 -[Interview process](https://blog.readme.io/how-we-designed-our-interview-process/)
 
 -[Tech interview at Amazon](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
