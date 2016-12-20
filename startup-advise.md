@@ -5,6 +5,9 @@
 
 #### Starting a Startup
 
+-[Bootstrapping a Saas Startup](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.l6pjdb17t)
+
+
 -[Y combinator Tech stack up](http://themacro.com/articles/2016/08/yc-tech-stacks/)
 
 -[Building something like Instagram](http://mlsdev.com/en/blog/70-how-to-develop-an-app-like-instagram)
