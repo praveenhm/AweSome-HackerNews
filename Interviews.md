@@ -71,6 +71,10 @@
 
 -[Java memory garbage collector ](http://eivindw.github.io/2016/01/08/comparing-gc-collectors.html)
 
+-[Modern garbage collector](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e#.uf2s5b475)
+
+
+
 ####Helpful desing doc
 -[Helpful design doc template](https://issues.apache.org/jira/secure/attachment/12693526/SparkYARN.pdf)
 
