@@ -1,5 +1,11 @@
 #### Interview
 
+
+-[lessons from 3000 technical interview](http://blog.interviewing.io/lessons-from-3000-technical-interviews/)
+
+-[Lessons from 3000 technical interivew followup](https://news.ycombinator.com/item?id=13272840)
+
+
 -[NoSQL database comparison](https://medium.com/baqend-blog/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.14guit9rr)
 
 -[Streaming process comparison](https://www.alooma.com/blog/stream-processing-101)
