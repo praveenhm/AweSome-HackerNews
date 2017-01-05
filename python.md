@@ -11,3 +11,9 @@ Python script
 ### Python tutorial
 
 -[Python flask tutorial](https://pythonprogramming.net/web-development-tutorials/)
+
+#### Python library
+
+-[Python library](https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md)
+
+
