@@ -28,6 +28,12 @@
 -[Startup finder markmatters](https://mattermark.com/)
 
 
+#### Stock options
+
+-[Startup stock options explained](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
+-[follow up comments](https://news.ycombinator.com/item?id=13426494)
+
+
 #### 2016 Startups Y combinartor
 -[How to start a startups Videos](http://startupclass.samaltman.com/)
 
