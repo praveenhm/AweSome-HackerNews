@@ -40,3 +40,7 @@
 #### Data set
 -[Yahoo M/C dataset news feed](http://yahoolabs.tumblr.com/post/137281912191/yahoo-releases-the-largest-ever-machine-learning)
 -[Direct link to data set](http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75)
+
+#### Deep Learning
+
+-[Google deep learning tutorial](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
