@@ -5,6 +5,10 @@
 
 #### Starting a Startup
 
+
+-[Startup truth](https://medium.com/@kenanhopkins/in-2016-i-sold-my-startup-for-seven-figures-a3c60db80947#.icl2lzygm)
+
+
 -[Successfull one person online business](https://news.ycombinator.com/item?id=13326535)
 
 -[Bootstrapping a Saas Startup](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.l6pjdb17t)
