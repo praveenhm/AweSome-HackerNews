@@ -1,3 +1,13 @@
+#### Bog
+
+- [Best everyday blog](https://news.ycombinator.com/item?id=13849430)
+
+-[](https://blog.acolyer.org/)
+-[](https://dev.to/)
+-[](http://highscalability.com/)
+-[](https://www.oreilly.com/ideas)
+
+
 ####summly
 http://hackingdistributed.com/2013/03/26/summly/
 
