@@ -2,10 +2,10 @@
 
 - [Best everyday blog](https://news.ycombinator.com/item?id=13849430)
 
--[](https://blog.acolyer.org/)
--[](https://dev.to/)
--[](http://highscalability.com/)
--[](https://www.oreilly.com/ideas)
+-[1](https://blog.acolyer.org/)
+-[2](https://dev.to/)
+-[3](http://highscalability.com/)
+-[4](https://www.oreilly.com/ideas)
 
 
 ####summly
