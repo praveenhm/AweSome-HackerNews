@@ -1,4 +1,6 @@
 
+
+
 Python Interview Q
 
 -[Python Interview Questions](https://github.com/donnemartin/interactive-coding-challenges)
@@ -15,6 +17,8 @@ Python script
 ### Python tutorial
 
 -[Python flask tutorial](https://pythonprogramming.net/web-development-tutorials/)
+
+-[Python tutorial](https://www.slideshare.net/MattHarrison4/learn-90)
 
 #### Python library
 
