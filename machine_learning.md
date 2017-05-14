@@ -1,3 +1,8 @@
+#### Software #########
+
+-[Deepdive software](http://deepdive.stanford.edu/)
+
+
 ###### Machine learning tutorials ############
 
 -[Machine learning tutorial](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
