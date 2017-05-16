@@ -4,6 +4,8 @@
 
 
 ###### Machine learning tutorials ############
+-[AI palybook](http://aiplaybook.a16z.com/)
+
 
 -[Standford notes on ML](http://cs229.stanford.edu/materials.html)
 
