@@ -5,6 +5,8 @@
 
 ###### Machine learning tutorials ############
 
+-[Standford notes on ML](http://cs229.stanford.edu/materials.html)
+
 -[Machine learning tutorial](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 
 -[Predictive analytics 101](http://data36.com/predictive-analytics-101-part-1/)
