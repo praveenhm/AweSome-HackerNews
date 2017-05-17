@@ -1,4 +1,8 @@
 
+######shortcuts,
+
+-[shortcut](https://www.shortcutfoo.com/)
+
 #### coding,
 Below is the coding
 
