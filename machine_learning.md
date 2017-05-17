@@ -3,9 +3,16 @@
 -[Deepdive software](http://deepdive.stanford.edu/)
 
 
-###### Machine learning tutorials ############
--[AI palybook](http://aiplaybook.a16z.com/)
 
+
+###### Machine learning tutorials ############
+
+-[machine learning 101](https://medium.com/onfido-tech/machine-learning-101-be2e0a86c96a)
+
+-[playground. tensorflow](http://playground.tensorflow.org/)
+
+
+-[AI palybook](http://aiplaybook.a16z.com/)
 
 -[Standford notes on ML](http://cs229.stanford.edu/materials.html)
 
