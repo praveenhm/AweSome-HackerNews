@@ -1,5 +1,5 @@
 
-#### Emerging Tech
+#### Emerging Tech Notes only
 
 - Kafka/Spark/Storm/Hbase
 - Scala/Python
