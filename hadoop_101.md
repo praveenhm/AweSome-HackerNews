@@ -83,8 +83,6 @@ PIG performance:
 - http://jonathanhui.com/hadoop-distributed-file-system-hdfs
 - http://www.simon-fortelny.com/?p=118
 
-Hadoop, bigdata blog
-- https://pkghosh.wordpress.com/
 
 GitHUb
 - https://github.com/pranab/estado
