@@ -39,6 +39,11 @@
 
 -[Machine learning basics](https://medium.com/innoarchitech-innovation-architecture-technology)
 
+#### Machine learning blog
+
+Hadoop, bigdata blog
+- https://pkghosh.wordpress.com/
+
 
 #### Machine learning
 -[machine learning resource](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
