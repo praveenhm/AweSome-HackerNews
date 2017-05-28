@@ -1,4 +1,9 @@
 
+#### VPN
+
+-[setup VPN server](https://pimylifeup.com/raspberry-pi-vpn-server/)
+
+
 #### TV
 
 -[Selecting TV ](http://www.snarky.ca/what-to-look-for-in-a-new-tv)
