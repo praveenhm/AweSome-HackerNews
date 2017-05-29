@@ -1,5 +1,8 @@
-### hadoop blod
+### hadoop blog
 -[spark java ](https://vanwilgenburg.wordpress.com/)
+
+-[Technology evanglist good one](http://www.kai-waehner.de/blog/)
+
 
 #### Blog
 
