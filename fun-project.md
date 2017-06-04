@@ -6,6 +6,8 @@
 
 #### TV
 
+-[Introduction to video Technology](https://github.com/leandromoreira/digital_video_introduction)
+
 -[Selecting TV ](http://www.snarky.ca/what-to-look-for-in-a-new-tv)
 - [TV reviews](http://ca.rtings.com/tv)
 - [TV wire cutter](http://thewirecutter.com/leaderboard/tvs/)
