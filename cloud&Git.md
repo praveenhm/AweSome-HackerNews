@@ -1,5 +1,8 @@
 #### AWS,
 
+-[Cloud comparison AWS google microsoft](https://www.arador.com/ridiculous-bandwidth-costs-amazon-google-microsoft/)
+
+
  -[AWS sail ](https://news.ycombinator.com/item?id=13072155)
 
  -[Guide to amazon web services](https://github.com/open-guides/og-aws)
