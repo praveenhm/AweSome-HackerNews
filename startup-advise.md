@@ -9,6 +9,8 @@
 
 #### Starting a Startup
 
+-[Y combinator statup school](https://www.startupschool.org/)
+
 
 -[Startup truth](https://medium.com/@kenanhopkins/in-2016-i-sold-my-startup-for-seven-figures-a3c60db80947#.icl2lzygm)
 
