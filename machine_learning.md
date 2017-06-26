@@ -7,6 +7,9 @@
 
 ###### Machine learning tutorials ############
 
+-[Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+
+
 -[machine learning 101](https://medium.com/onfido-tech/machine-learning-101-be2e0a86c96a)
 
 -[playground. tensorflow](http://playground.tensorflow.org/)
