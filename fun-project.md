@@ -1,4 +1,10 @@
 
+#### love
+
+-[150 dates in 4 months](https://themission.co/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c)
+
+
+
 #### VPN
 
 -[setup VPN server](https://pimylifeup.com/raspberry-pi-vpn-server/)
