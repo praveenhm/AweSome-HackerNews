@@ -76,6 +76,9 @@
 -[Java 8 tutorial follow up ](https://news.ycombinator.com/item?id=10573399)
 
 ### java performance blog
+
+-[why i hate java](http://warp.povusers.org/grrr/java.html)
+
 -[java performance blog takipi](http://blog.takipi.com/)
 
 -[Java memory guide, best for interview](https://www.ravenbrook.com/project/mps/master/manual/html/mmref/lang.html)
