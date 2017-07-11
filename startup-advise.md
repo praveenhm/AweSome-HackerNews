@@ -1,5 +1,5 @@
 #### photos
--[hacking reddit to generate media ](http://www.hack-pr.com/library/how-we-hacked-reddit-to-generate-5-million-media-impressions-in-3-days)
+-[How To Go Viral By Using Fake Reddit Likes](http://www.hack-pr.com/library/how-we-hacked-reddit-to-generate-5-million-media-impressions-in-3-days)
 
 -[Free photos](https://unsplash.com/collections)
 
