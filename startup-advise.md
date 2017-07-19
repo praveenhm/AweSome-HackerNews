@@ -10,6 +10,9 @@
 
 #### Starting a Startup
 
+-[learn from indiehackers](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/)
+
+
 -[Y combinator statup school](https://www.startupschool.org/)
 
 
