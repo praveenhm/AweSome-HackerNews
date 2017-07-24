@@ -1,3 +1,7 @@
+##### Algorithms
+-[Trees algorithm](https://sadanand-singh.github.io/posts/treebasedmodels/#.WXT8Kli2pUw.hackernews)
+
+
 ###### Interview
 
 -[How to interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)
