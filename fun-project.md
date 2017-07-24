@@ -3,6 +3,8 @@
 
 -[150 dates in 4 months](https://themission.co/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c)
 
+#### wifi
+-[how wifi works](http://www.verizoninternet.com/bookmark/how-wifi-works/)
 
 
 #### VPN
