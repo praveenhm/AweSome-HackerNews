@@ -6,6 +6,8 @@
 
 
 ###### Machine learning tutorials ############
+-[logistic regression vs newton method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
+
 
 -[Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 
