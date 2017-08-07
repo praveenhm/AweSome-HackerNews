@@ -6,6 +6,7 @@
 
 #######startup ########
 
+-[Marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/)
 -[building a startup](https://levels.io/hoodmaps/)
 
 -[free startup template](https://startbootstrap.com/)
