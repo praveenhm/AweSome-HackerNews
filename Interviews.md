@@ -1,3 +1,11 @@
+#### regex
+
+-[learn regex](https://github.com/zeeshanu/learn-regex)
+-[regex testing](http://www.regexplanet.com/)
+-[regex testing](http://regexr.com/)
+-[regex 101](https://regex101.com/)
+
+
 ##### Algorithms
 -[Trees algorithm](https://sadanand-singh.github.io/posts/treebasedmodels/#.WXT8Kli2pUw.hackernews)
 
