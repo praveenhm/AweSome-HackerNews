@@ -1,5 +1,7 @@
 #### Software #########
 
+-[effective tensor flow](https://github.com/vahidk/EffectiveTensorflow?)
+
 -[Deepdive software](http://deepdive.stanford.edu/)
 
 -[build a chatbot](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
