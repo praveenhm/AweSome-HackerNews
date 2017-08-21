@@ -11,6 +11,8 @@
 
 -[setup VPN server](https://pimylifeup.com/raspberry-pi-vpn-server/)
 
+-[vpn setup](https://vpnreport.org/)
+
 
 #### TV
 
