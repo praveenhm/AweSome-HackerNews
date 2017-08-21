@@ -1,4 +1,8 @@
 
+#### Bitcoin
+
+-[Analyzing crypto currency](https://blog.patricktriest.com/analyzing-cryptocurrencies-python/?utm_source=hackernews)
+
 #### love
 
 -[150 dates in 4 months](https://themission.co/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c)
