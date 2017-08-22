@@ -1,5 +1,7 @@
 #### AWS,
 
+-[AWS and GCP comparison](https://metamarkets.com/2017/big-cloud-data-aws-and-gcp/)
+
 -[Cloud comparison AWS google microsoft](https://www.arador.com/ridiculous-bandwidth-costs-amazon-google-microsoft/)
 
 
