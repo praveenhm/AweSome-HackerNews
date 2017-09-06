@@ -1,5 +1,7 @@
 #### Kafka 
 
+-[cassandra 101](https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4)
+
 -[NY article why they used Kafka](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
 
 
