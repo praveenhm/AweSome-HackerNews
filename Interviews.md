@@ -1,3 +1,8 @@
+#### Kafka 
+
+-[NY article why they used Kafka](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
+
+
 #### regex
 
 -[learn regex](https://github.com/zeeshanu/learn-regex)
