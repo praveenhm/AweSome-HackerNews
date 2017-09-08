@@ -4,6 +4,8 @@
 
 -[NY article why they used Kafka](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
 
+-[follow-up comment on Y on kafka inersting](https://news.ycombinator.com/item?id=15184640)
+
 
 #### regex
 
