@@ -6,6 +6,8 @@
 
 #######startup ########
 
+-[Some tips on creating startup](https://www.process.st/mvp-app/)
+
 -[Marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/)
 -[building a startup](https://levels.io/hoodmaps/)
 
