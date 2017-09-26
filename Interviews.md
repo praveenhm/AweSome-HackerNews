@@ -1,3 +1,13 @@
+
+#### coding interviews #######3
+
+-[coding interview books](https://github.com/yangshun/tech-interview-handbook)
+
+-[coding web site](https://medium.freecodecamp.org/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f)
+
+-[Algorithm and data structures](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+
+
 #### Kafka 
 
 -[cassandra 101](https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4)
