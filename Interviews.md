@@ -10,6 +10,9 @@
 ##### SQL
 -[why SQL beating NoSql](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 
+Database-performance-tricks
+These three data warehouses undoubtedly use the standard performance tricks: columnar storage, cost-based query planning, pipelined execution, and just-in-time compilation
+
 #### Kafka 
 
 -[cassandra 101](https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4)
