@@ -7,6 +7,8 @@
 
 -[Algorithm and data structures](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 
+##### SQL
+-[why SQL beating NoSql](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 
 #### Kafka 
 
