@@ -3,6 +3,8 @@
 
 -[500 interview quetions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&amp;share=1)
 
+-[Techie delight](http://www.techiedelight.com/list-of-problems/)
+
 -[coding interview books](https://github.com/yangshun/tech-interview-handbook)
 
 -[coding web site](https://medium.freecodecamp.org/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f)
