@@ -6,6 +6,9 @@
 
 #######startup ########
 
+-[pitching for round A funding](https://blog.atrium.co/the-founders-guide-to-raising-a-series-a-venture-financing-1de4f5aff312)
+
+
 -[Some tips on creating startup](https://www.process.st/mvp-app/)
 
 -[Marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/)
