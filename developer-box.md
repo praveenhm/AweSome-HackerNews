@@ -1,3 +1,8 @@
+#### development setup #####
+
+-[How to set up world-class continuous deployment using free hosted tools](https://simonwillison.net/2017/Oct/17/free-continuous-deployment/)
+
+
 #### config developer box.
 
 - [config Mac development tools](http://www.josebrowne.com/from-windows-to-mac-dev.html)
