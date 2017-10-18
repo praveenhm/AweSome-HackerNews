@@ -1,4 +1,6 @@
 Spark memory setup for 100GB memory and 100 vCores
+As the executors increases, the storagememory accordingly decreases
+
 spark-shell \
 --master yarn \
 --deploy-mode client  # change this to cluster \
