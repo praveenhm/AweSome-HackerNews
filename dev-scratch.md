@@ -2,7 +2,7 @@ Spark memory setup for 100GB memory and 100 vCores
 spark-shell \
 --master yarn \
 --deploy-mode client  # change this to cluster \
---driver-memory 5G \  
+--driver-memory 5G \ 
 --executor-memory 3G # 3 per executor x num of exec 30 = 3 x 30 = 90GB \
 --num-executors 30 \
 --driver-cores 10 \
