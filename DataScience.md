@@ -2,6 +2,7 @@
 
 ####Data scientiest courses
 
+-[The fate of data science in 2017](https://www.kaggle.com/surveys/2017)
 
 
 -[Datascience 65 free courses](https://elitedatascience.com/data-science-resources)
