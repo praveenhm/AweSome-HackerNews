@@ -14,6 +14,8 @@
 ##### SQL
 -[why SQL beating NoSql](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 
+-[RDBMS columar vs row ](http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html)
+
 Database-performance-tricks
 These three data warehouses undoubtedly use the standard performance tricks: columnar storage, cost-based query planning, pipelined execution, and just-in-time compilation
 
