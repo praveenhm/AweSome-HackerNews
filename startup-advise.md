@@ -5,6 +5,7 @@
 
 
 #######startup ########
+-[How to become CEO](https://www.nytimes.com/2017/10/27/business/how-to-be-a-ceo.html)
 
 -[pitching for round A funding](https://blog.atrium.co/the-founders-guide-to-raising-a-series-a-venture-financing-1de4f5aff312)
 
