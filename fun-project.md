@@ -1,4 +1,9 @@
 
+
+##### food 
+-[local harvest](https://harvestsignal.com/)
+-[what grows in your area](https://news.ycombinator.com/item?id=15739744)
+
 #### Bitcoin
 
 -[Analyzing crypto currency](https://blog.patricktriest.com/analyzing-cryptocurrencies-python/?utm_source=hackernews)
