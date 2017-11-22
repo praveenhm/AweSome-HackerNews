@@ -1,3 +1,8 @@
+##### static web site
+-[free static web site](https://www.netlify.com/pricing/)
+
+-[follow up ](https://news.ycombinator.com/item?id=15755768)
+
 #### photos
 -[How To Go Viral By Using Fake Reddit Likes](http://www.hack-pr.com/library/how-we-hacked-reddit-to-generate-5-million-media-impressions-in-3-days)
 
