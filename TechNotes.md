@@ -1,3 +1,6 @@
+-[batch and streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
+
+
 ###Spark vs Flink
 
 Both tools are receiving wide adoption, with an edge to Spark for batch/bounded processing, and to Flink for 
