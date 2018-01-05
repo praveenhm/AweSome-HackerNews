@@ -1,3 +1,7 @@
+#########About spark##########
+
+-[Spark concepts](https://github.com/kubernetes/kubernetes/issues/34377)
+
 #########Spark performance ###########
 
 -[Spark gotchas](https://github.com/awesome-spark/spark-gotchas)
