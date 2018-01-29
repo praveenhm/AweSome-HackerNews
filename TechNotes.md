@@ -18,3 +18,7 @@ Feature engineering in particular has become a bit of a passion of mine since th
 Docker:
 Docker is a containerization tool. Containers function as lightweight and low overhead virtual machines. A Docker image is a file that forms the initial state of a container. It is immutable and carries no state, so containers run from the same image are initially identical.
 Using containers allow developers to use whatever language or framework they wish. A service developer simply needs to produce a Docker image that implements their service. They don’t have to configure any servers.
+
+
+Strava uses a Elastic Search / Logstash / Kibana (ELK) stack for centralized logging. Each Mesos Agent runs a Logspout container which pulls all logs from colocated containers and ships them to the ELK stack. Log messages are annotated with metadata including the Agent host, container ID, and Marathon app name.
+
