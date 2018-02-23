@@ -1,8 +1,7 @@
 
-##########Bigdata pipeline ##########
+########## Bigdata pipeline
 
--[Big data pipeline](http://xyz.insightdataengineering.com/blog/pipeline_map/)
-
+-[Big data pipeline diagram](http://xyz.insightdataengineering.com/blog/pipeline_map/)
 
 
 #####Bunch of example for Streaming data
