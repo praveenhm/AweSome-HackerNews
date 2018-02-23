@@ -1,5 +1,5 @@
 
-#### coding interviews #######3
+#### coding interviews
 
 -[500 interview quetions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&amp;share=1)
 
@@ -36,11 +36,11 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 -[regex 101](https://regex101.com/)
 
 
-##### Algorithms
+#### Algorithms
 -[Trees algorithm](https://sadanand-singh.github.io/posts/treebasedmodels/#.WXT8Kli2pUw.hackernews)
 
 
-###### Interview
+#### Interview
 
 -[How to interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)
 
@@ -62,7 +62,7 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 -[pipeline map data engineering](https://blog.insightdatascience.com/the-new-data-engineering-ecosystem-trends-and-rising-stars-414a1609d4a0#.thphny7xx)
 
 
-##### Tech interviews at various company.
+#### Tech interviews at various company.
 
 -[Prepartion for google interview](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.7zc4h6vtr)
 
@@ -70,7 +70,7 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 
 -[Tech interview at Amazon](http://sobit.me/2016/07/08/amazon-software-engineer-interview/)
 
-####coarse era material ###########
+#### coarse era material 
 
 -[Coursea archive](https://archive.org/details/archiveteam_coursera)
 
@@ -98,6 +98,7 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 -[Interview.io](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/)
 
 -[Good on threads](http://tutorials.jenkov.com/)
+
 #### Interview Questions
 -[Data Structures and Algorith with answers](http://www.ideserve.co.in/)
 
@@ -137,7 +138,7 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 -[Helpful design doc template](https://issues.apache.org/jira/secure/attachment/12693526/SparkYARN.pdf)
 
 
-##### Hadoop and hive programming example
+#### Hadoop and hive programming example
 - [hadoop and hive examples](https://sites.google.com/site/hadoopandhive/)
 
 
@@ -205,7 +206,7 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 
 - [Core java blog, good for interview](http://vanillajava.blogspot.com/)
 
-##### Interview questions,
+#### Interview questions,
 
 - [coding interview](https://news.ycombinator.com/item?id=6559404)
 
