@@ -22,3 +22,27 @@ Using containers allow developers to use whatever language or framework they wis
 
 Strava uses a Elastic Search / Logstash / Kibana (ELK) stack for centralized logging. Each Mesos Agent runs a Logspout container which pulls all logs from colocated containers and ships them to the ELK stack. Log messages are annotated with metadata including the Agent host, container ID, and Marathon app name.
 
+
+
+###question to ask
+
+Source Database:
+1.	What is the size of the source database(Teradata)?
+2.	How many source database/schemas and tables do they have?
+3.	What kind of users, roles, and permissions do they have on the source database?
+4.	How can source database be accessed (firewalls, tunnels…)?
+5.	Does all the source data need to move once or incremental?
+6.	Can the Client afford downtime? How much?
+7.	Do they need the source database to stay alive after the migration? For how long?
+8.	What is the current Management and Monitoring strategy? Tools used?
+9.	What is the current Backup and Archival strategy? Tools used?
+10.	How often the data is being refreshed in the source database?
+11.	Is the source data shared with any other systems?
+12.	What are the top challenges / pain points with current database setup? 
+13.	What are the current DB drivers in use? –For Example: OCI, PRO*C, ODBC, OLE DB, JDBC, ADO, ADO.NET, others? 
+
+Target Database:
+1.	Is PostgreSQL (community Version) going to be the target database or other third party PostgreSQL databases like EnterpriseDB, CitusData, Postgres-XL, etc?
+2.	Are there any requirements related to High Availability (HA)?
+3.	What happens to client application/processes after the migration?
+4.	What problems are the expected to be resolved from the migration?       
