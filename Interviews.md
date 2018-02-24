@@ -11,7 +11,7 @@
 
 -[Algorithm and data structures](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 
-##### SQL
+#### SQL
 -[why SQL beating NoSql](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 
 -[RDBMS columar vs row ](http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html)
@@ -134,7 +134,7 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 
 
 
-####Helpful desing doc
+#### Helpful desing doc
 -[Helpful design doc template](https://issues.apache.org/jira/secure/attachment/12693526/SparkYARN.pdf)
 
 
