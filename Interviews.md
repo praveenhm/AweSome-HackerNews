@@ -1,4 +1,8 @@
 
+#### general
+
+-[Cassandra permonace improvement](https://news.ycombinator.com/item?id=16523064)
+
 #### coding interviews
 
 -[500 interview quetions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&amp;share=1)
