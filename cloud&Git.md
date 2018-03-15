@@ -39,6 +39,8 @@ At VpsBenchmarks, we specialize in testing this type of VPS so we wasted no time
 
 #### Git,
 
+-[Git documentation](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
+
 -[Use Git effectively](http://devcharm.com/pages/46-improve-your-git-workflow)
 
 -[simple Git use](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)
