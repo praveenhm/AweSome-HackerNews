@@ -33,6 +33,8 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 
 
 #### regex
+-[regex tutorial](http://www.rexegg.com/)
+
 
 -[learn regex](https://github.com/zeeshanu/learn-regex)
 -[regex testing](http://www.regexplanet.com/)
