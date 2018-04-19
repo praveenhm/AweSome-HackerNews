@@ -1,3 +1,8 @@
+#### Remote Jobs
+
+-[List of Remote jobs sites](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview?usp=drive_web&sle=true)
+
+
 #### Salary
 
 -[google, microsoft, amazon salary](https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/)
