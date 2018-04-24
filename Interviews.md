@@ -5,6 +5,9 @@
 
 #### coding interviews
 
+-[Coding interviews experience](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html)
+
+
 -[500 interview quetions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&amp;share=1)
 
 -[Techie delight](http://www.techiedelight.com/list-of-problems/)
