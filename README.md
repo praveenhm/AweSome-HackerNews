@@ -7,3 +7,5 @@ Mostly it is all about how to start your next big thing :)
 - website
 
 More tip:
+
+__general_tip__: This is how creted
