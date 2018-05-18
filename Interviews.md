@@ -5,6 +5,8 @@
 
 #### coding interviews
 
+-[Dynamic programming Interview problems](http://blog.refdash.com/dynamic-programming-tutorial-example/)
+
 -[Coding interviews experience](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html)
 
 -[followup comments](https://news.ycombinator.com/item?id=16912546)
