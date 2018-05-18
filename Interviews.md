@@ -198,6 +198,8 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 
 - [leet code](https://leetcode.com/)
 
+- [follow up hacker news](https://news.ycombinator.com/item?id=17101046)
+
 - [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Interview website](http://www.geeksforgeeks.org/)
 - [deligtful puzzles](http://gurmeet.net/puzzles/)
