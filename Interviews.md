@@ -30,6 +30,11 @@
 Database-performance-tricks
 These three data warehouses undoubtedly use the standard performance tricks: columnar storage, cost-based query planning, pipelined execution, and just-in-time compilation
 
+-[Good comparison between Mysql and prostgres](https://blog.dumper.io/showdown-mysql-8-vs-postgresql-10/)
+
+-[Follow-up comments](https://news.ycombinator.com/item?id=17133470)
+
+
 #### Kafka 
 
 -[cassandra 101](https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4)
