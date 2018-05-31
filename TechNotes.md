@@ -46,3 +46,35 @@ Target Database:
 2.	Are there any requirements related to High Availability (HA)?
 3.	What happens to client application/processes after the migration?
 4.	What problems are the expected to be resolved from the migration?       
+
+----------------------------------------------------------------------------
+### evolving web technologies
+
+Web frameworks are churn-y because they are incredibly leaky abstractions covering really awkward impedance mismatches. This means that they are never quite satisfactory - and that just to use one, you need to be capable of building a new one yourself.
+Think of a typical web app. Your data exists:
+
+1. As rows in a database, accessed via SQL
+
+2. As model objects on the server, accessed via method calls and attributes
+
+3. As JSON, accessed via many HTTP endpoints with a limited set of verbs (GET/PUT/POST/DELETE)
+
+4. As Javascript objects, accessed via (a different set of) method calls and attributes
+
+5. As HTML tags, accessed via the DOM API
+
+6. As pixels, styled by CSS.
+
+--
+
+Each time you translate from one layer to the next, there's a nasty impedance mismatch. This, in turn, attracts "magic": ORMs (DB<->Object); Angular Resources (REST<->JS Object); templating engines (JS Object<->DOM); etc. Each of these translation layers shares two characteristics:
+
+(A) It is "magic": It abuses the semantics of one layer (eg DB model objects) in an attempt to interface with another (eg SQL).
+
+(B) It's a terribly leaky abstraction.
+
+This means that (a) every translation layer is prone to unintuitive failures, and (b) every advanced user of it needs to know enough to build one themselves. So when the impedance mismatch bites you on the ass, some fraction of users are going to flip the table, swear they could do better, and write their own. Which, of course, can't solve the underlying mismatch, and therefore won't be satisfactory...and so the cycle continues.
+
+Of these nasty transitions, 4/5 are associated with the front end, so the front end gets the rap.
+
+(I gave a lightning talk at PyCon two weeks ago, about exactly this - stacking this up against the "Zen of Python" and talking about some of the ways we avoid this in Anvil: https://anvil.works/blog/pycon18-making-the-web-more-pythoni...)
