@@ -3,6 +3,9 @@
 
 -[Cassandra permonace improvement](https://news.ycombinator.com/item?id=16523064)
 
+-[In memory apache Arrow](https://www.dremio.com/origin-history-of-apache-arrow/)
+
+
 #### coding interviews
 
 -[Dynamic programming Interview problems](http://blog.refdash.com/dynamic-programming-tutorial-example/)
