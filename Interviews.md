@@ -7,6 +7,8 @@
 
 -[MongoDB performance](https://severalnines.com/blog/performance-cheat-sheet-mongodb)
 
+-[Comparing various database type](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
+
 
 #### coding interviews
 
