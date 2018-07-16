@@ -9,6 +9,8 @@
 
 -[Comparing various database type](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 
+-[Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
+
 
 #### coding interviews
 
