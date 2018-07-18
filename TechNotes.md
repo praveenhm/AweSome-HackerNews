@@ -80,5 +80,6 @@ Of these nasty transitions, 4/5 are associated with the front end, so the front 
 (I gave a lightning talk at PyCon two weeks ago, about exactly this - stacking this up against the "Zen of Python" and talking about some of the ways we avoid this in Anvil: https://anvil.works/blog/pycon18-making-the-web-more-pythoni...)
 
 
-########## Microservice ##########3
+########## Microservice ##########
+
 Briefly, microservices is a service-oriented software architecture in which server-side applications are constructed by combining many single-purpose, low-footprint network services. The touted benefits are improved modularity, reduced testing burden, better functional composition, environmental isolation, and development team autonomy. The opposite is a Monolithic architecture, where a large amount of functionality lives in a single service which is tested, deployed, and scaled as a single unit.
