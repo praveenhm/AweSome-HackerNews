@@ -45,6 +45,9 @@
 
 
 #### Open source machine learning framework
+
+-[Foundation machine learning](https://bloomberg.github.io/foml/#lectures)
+
 -[caffee](http://caffe.berkeleyvision.org/)
 -[caffeeonspark](http://yahoohadoop.tumblr.com/post/139916563586/caffeonspark-open-sourced-for-distributed-deep?soc_src=mail&soc_trk=ma)
 
