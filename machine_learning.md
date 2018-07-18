@@ -11,6 +11,8 @@
 
 ###### Machine learning tutorials ############
 
+-[Interactive machine learning seed example](http://tools.google.com/seedbank/)
+
 -[Visual machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 -[Goole machine learning comments](https://news.ycombinator.com/item?id=16493489)
