@@ -9,7 +9,9 @@
 
 
 
-###### Machine learning tutorials ############
+###### Machine learning tutorials and Guides############
+
+-[Google Machine learning guides](https://developers.google.com/machine-learning/guides/)
 
 -[Interactive machine learning seed example](http://tools.google.com/seedbank/)
 
