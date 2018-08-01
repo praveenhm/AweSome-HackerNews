@@ -11,6 +11,8 @@
 
 ###### Machine learning tutorials and Guides############
 
+-[Math for machine learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
+
 -[Google Machine learning guides](https://developers.google.com/machine-learning/guides/)
 
 -[Interactive machine learning seed example](http://tools.google.com/seedbank/)
