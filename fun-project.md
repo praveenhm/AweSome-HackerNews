@@ -2,6 +2,7 @@
 #### portfolio
 
 -[building killer portfolio](https://zen-of-programming.com/kickass-portfolio)
+
 -[follo-up hacker comments](https://news.ycombinator.com/item?id=17671490)
 
 
