@@ -9,7 +9,7 @@
 
 
 
-###### Machine learning tutorials and Guides############
+###### Machine learning tutorials and Guides ############
 
 -[Facebook machine learning videos](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 
