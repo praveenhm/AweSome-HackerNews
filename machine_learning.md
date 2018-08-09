@@ -11,6 +11,8 @@
 
 ###### Machine learning tutorials and Guides############
 
+-[Facebook machine learning videos](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+
 -[Deep learning beginner to expert](https://blog.floydhub.com/ten-techniques-from-fast-ai/)
 
 -[Math for machine learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
