@@ -1,4 +1,9 @@
 
+#### Docker #########
+
+-[Serverless docker beta](https://zeit.co/blog/serverless-docker)
+
+
 #### Emerging Tech Notes only
 
 - Kafka/Spark/Storm/Hbase
