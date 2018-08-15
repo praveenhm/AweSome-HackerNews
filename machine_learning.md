@@ -7,6 +7,9 @@
 -[build a chatbot](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
 
 
+#### Machine learning Algo 
+
+-[Markov Chains](http://setosa.io/ev/markov-chains/)
 
 
 #### Machine learning tutorials and Guides
