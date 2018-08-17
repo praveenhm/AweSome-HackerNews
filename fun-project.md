@@ -1,4 +1,8 @@
 
+#### Good read
+
+-[find good recomendation from good people](http://abyjames.com/projects/recommendations/)
+
 #### portfolio
 
 -[building killer portfolio](https://zen-of-programming.com/kickass-portfolio)
