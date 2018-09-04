@@ -11,7 +11,11 @@
 
 -[Good tuturial on Kafka](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 
+#### Kubernetes
+
+-[Kubernetes by doing](https://www.magicsandbox.com/)
 
 -[Kubernetes by example (Jun 17)](http://kubernetesbyexample.com/)
+
 
 
