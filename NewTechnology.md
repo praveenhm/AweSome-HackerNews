@@ -13,6 +13,8 @@
 
 #### Kubernetes
 
+-[Kubernetes for personal project](http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects)
+
 -[Kubernetes by doing](https://www.magicsandbox.com/)
 
 -[Kubernetes by example (Jun 17)](http://kubernetesbyexample.com/)
