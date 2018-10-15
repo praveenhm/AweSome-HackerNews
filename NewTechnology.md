@@ -23,3 +23,6 @@
 
 
 
+#### Technology talk
+
+-[Best technology talk](https://news.ycombinator.com/item?id=18217762)
