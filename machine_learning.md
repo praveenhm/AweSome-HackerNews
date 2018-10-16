@@ -77,6 +77,8 @@
 Hadoop, bigdata blog
 - https://pkghosh.wordpress.com/
 
+-[Machine learning basics](https://brandur.org/articles)
+
 
 #### Machine learning
 -[machine learning resource](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
