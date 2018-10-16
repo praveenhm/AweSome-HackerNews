@@ -3,6 +3,8 @@
 
 -[Technology evanglist good one](http://www.kai-waehner.de/blog/)
 
+-[Postgres blog](https://brandur.org/articles)
+
 
 #### Blog
 
