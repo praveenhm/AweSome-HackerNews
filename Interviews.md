@@ -15,6 +15,7 @@
 
 -[Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 
+-[Uber engineering blog](https://eng.uber.com/uber-big-data-platform/)
 
 #### coding interviews
 
