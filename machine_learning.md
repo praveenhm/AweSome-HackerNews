@@ -56,6 +56,7 @@
 
 -[Machine learning exercises in python](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
 
+-[Automatic Differentiation in Swift](https://gist.github.com/rxwei/30ba75ce092ab3b0dce4bde1fc2c9f1d)
 
 #### Open source machine learning framework
 
