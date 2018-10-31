@@ -14,6 +14,8 @@
 
 #### Machine learning tutorials and Guides
 
+-[Top ten ml algorithms](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+
 -[Facebook machine learning videos](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 
 -[Deep learning beginner to expert](https://blog.floydhub.com/ten-techniques-from-fast-ai/)
