@@ -5,6 +5,8 @@
 
 #### general
 
+-[Core concepts of Spark](https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090)
+
 -[Cassandra permonace improvement](https://news.ycombinator.com/item?id=16523064)
 
 -[In memory apache Arrow](https://www.dremio.com/origin-history-of-apache-arrow/)
