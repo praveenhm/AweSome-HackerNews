@@ -3,6 +3,10 @@
 
 -[follow up ](https://news.ycombinator.com/item?id=15755768)
 
+#### Maping solutions
+-[geo location](https://opencagedata.com/pricing)
+-[cheaper alternative to goolemaps, stadia](https://stadiamaps.com/)
+
 #### photos
 -[How To Go Viral By Using Fake Reddit Likes](http://www.hack-pr.com/library/how-we-hacked-reddit-to-generate-5-million-media-impressions-in-3-days)
 
