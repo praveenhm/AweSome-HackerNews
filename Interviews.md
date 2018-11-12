@@ -54,6 +54,7 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 
 -[Follow-up comments](https://news.ycombinator.com/item?id=17133470)
 
+-[postgresql extension db comparisons](https://news.ycombinator.com/item?id=18295041)
 
 #### Kafka 
 
