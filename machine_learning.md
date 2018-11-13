@@ -11,6 +11,7 @@
 
 -[Markov Chains](http://setosa.io/ev/markov-chains/)
 
+-[great bayes notes](http://supportvectors.com/pdfdocs/great-bayes-notes.pdf)
 
 #### Machine learning tutorials and Guides
 
