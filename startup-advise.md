@@ -15,6 +15,8 @@
 
 #######startup ########
 
+-[startuo hacks for real founder](https://news.ycombinator.com/item?id=18400020)
+
 -[Pros and cons of Startup working](https://news.ycombinator.com/item?id=17286939)
 
 -[How to become CEO](https://www.nytimes.com/2017/10/27/business/how-to-be-a-ceo.html)
