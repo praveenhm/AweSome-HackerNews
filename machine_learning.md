@@ -1,3 +1,11 @@
+##### Deep Learning #####
+
+Deep learning software
+* PyTorch (popular than TF) 
+* TensorFlow
+* Keras
+* Sonnet (deepmind)
+
 #### Software #########
 
 -[effective tensor flow](https://github.com/vahidk/EffectiveTensorflow?)
