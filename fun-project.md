@@ -1,3 +1,7 @@
+### 
+
+-[Build a purifier](https://www.uofmhealth.org/news/sinus-hepa-0630)
+-[comments](https://news.ycombinator.com/item?id=18445652)
 
 #### Good read
 
