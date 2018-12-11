@@ -14,6 +14,9 @@ Deep learning software
 
 -[build a chatbot](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
 
+#### Practical AI
+
+-[practical AI insight into notebooks](https://github.com/GokuMohandas/practicalAI)
 
 #### Machine learning Algo 
 
