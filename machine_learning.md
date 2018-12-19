@@ -26,6 +26,8 @@ Deep learning software
 
 #### Machine learning tutorials and Guides
 
+-[Good doc on google coarses on ML and cloud](https://techdevguide.withgoogle.com/)
+
 -[Very good basic machine learning](https://vas3k.ru/blog/machine_learning/)
 
 -[Top ten ml algorithms](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
