@@ -6,6 +6,9 @@ Deep learning software
 * Keras
 * Sonnet (deepmind)
 
+#### Deep learning coarse ####
+-[Berkely deep learning](http://d2l.ai/chapter_introduction/index.html)
+
 #### Software #########
 
 -[effective tensor flow](https://github.com/vahidk/EffectiveTensorflow?)
