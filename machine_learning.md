@@ -6,6 +6,10 @@ Deep learning software
 * Keras
 * Sonnet (deepmind)
 
+### Neural network ###
+
+-[hacker guide to neural network](http://karpathy.github.io/neuralnets/)
+
 #### Deep learning coarse ####
 -[Berkely deep learning](http://d2l.ai/chapter_introduction/index.html)
 
