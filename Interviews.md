@@ -58,6 +58,8 @@ These three data warehouses undoubtedly use the standard performance tricks: col
 
 -[SQL joins venn diagram](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 
+The first section is about how Venn works fine for AND and OR because it’s set theory and Venn works just fine for examples (maybe not every problem though). Joins are not sets. They are Cartesian products.
+
 #### Kafka 
 
 -[cassandra 101](https://blog.insightdatascience.com/the-total-newbies-guide-to-cassandra-e63bce0316a4)
