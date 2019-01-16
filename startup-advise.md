@@ -15,6 +15,8 @@
 
 #######startup ########
 
+-[Sam Altman how to startup playbook](https://playbook.samaltman.com/)
+
 -[super founders](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45)
 
 -[startuo hacks for real founder](https://news.ycombinator.com/item?id=18400020)
