@@ -9,6 +9,8 @@
 
 -[follow up comments](https://news.ycombinator.com/item?id=18942572)
 
+-[75 programming interview questions](http://www.java67.com/2018/05/top-75-programming-interview-questions-answers.html)
+
 -[Core concepts of Spark](https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090)
 
 -[Cassandra permonace improvement](https://news.ycombinator.com/item?id=16523064)
