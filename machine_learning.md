@@ -6,6 +6,8 @@ Deep learning software
 * Keras
 * Sonnet (deepmind)
 
+-[Roadmap for study and learning](https://github.com/astorfi/TensorFlow-Roadmap)
+
 ### Neural network ###
 
 -[hacker guide to neural network](http://karpathy.github.io/neuralnets/)
