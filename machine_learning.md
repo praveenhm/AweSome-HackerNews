@@ -10,6 +10,8 @@ Deep learning software
 
 -[Deep learning for coders](https://www.fast.ai/2019/01/24/course-v3/)
 
+-[machine learning papers with code](https://paperswithcode.com/sota)
+
 ### Neural network ###
 
 -[hacker guide to neural network](http://karpathy.github.io/neuralnets/)
