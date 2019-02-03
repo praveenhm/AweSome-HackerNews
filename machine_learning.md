@@ -12,6 +12,8 @@ Deep learning software
 
 -[machine learning papers with code](https://paperswithcode.com/sota)
 
+-[math behind neural network](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
+
 ### Neural network ###
 
 -[hacker guide to neural network](http://karpathy.github.io/neuralnets/)
