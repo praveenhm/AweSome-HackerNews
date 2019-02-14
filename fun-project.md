@@ -1,3 +1,9 @@
+#### Solar
+
+-[Solar buy vs lease](https://www.bloomberg.com/graphics/2019-sunrun-solar-panels/)
+
+-[follow up comment](https://news.ycombinator.com/item?id=19162382)
+
 ### 
 
 -[Build a purifier](https://www.uofmhealth.org/news/sinus-hepa-0630)
