@@ -2,6 +2,8 @@
 
 ####Data scientiest courses
 
+-[Data science in 2019](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
+
 -[The fate of data science in 2017](https://www.kaggle.com/surveys/2017)
 
 
