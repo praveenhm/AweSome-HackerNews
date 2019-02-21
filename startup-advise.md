@@ -15,6 +15,8 @@
 
 #######startup ########
 
+-[Startup notes](https://docs.google.com/document/d/1wkJ6Ruh2IiR-caT-PS3n5Yt5VKcmIsVhuQwjgqK7030/preview#)
+
 -[Sam Altman how to startup playbook](https://playbook.samaltman.com/)
 
 -[super founders](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45)
