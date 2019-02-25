@@ -9,6 +9,7 @@ Deep learning software
 ######cheat sheet #########
 
 -[Standford machine learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
+
 -[Standford Deep learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/)
 
 -[Roadmap for study and learning](https://github.com/astorfi/TensorFlow-Roadmap)
