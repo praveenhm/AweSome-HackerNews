@@ -7,7 +7,9 @@ Deep learning software
 * Sonnet (deepmind)
 
 ######cheat sheet #########
--[Standford cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
+
+-[Standford machine learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
+-[Standford Deep learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/)
 
 -[Roadmap for study and learning](https://github.com/astorfi/TensorFlow-Roadmap)
 
