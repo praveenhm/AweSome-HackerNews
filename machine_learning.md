@@ -12,6 +12,9 @@ Deep learning software
 
 -[Standford Deep learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/)
 
+-[ML ](https://github.com/remicnrd/ml_cheatsheet)
+
+######
 -[Roadmap for study and learning](https://github.com/astorfi/TensorFlow-Roadmap)
 
 -[Deep learning for coders](https://www.fast.ai/2019/01/24/course-v3/)
