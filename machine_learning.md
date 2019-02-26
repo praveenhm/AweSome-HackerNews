@@ -14,6 +14,8 @@ Deep learning software
 
 -[ML ](https://github.com/remicnrd/ml_cheatsheet)
 
+-[ML myths](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/)
+
 ######
 -[Roadmap for study and learning](https://github.com/astorfi/TensorFlow-Roadmap)
 
