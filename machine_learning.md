@@ -50,6 +50,10 @@ Deep learning software
 
 -[great bayes notes](http://supportvectors.com/pdfdocs/great-bayes-notes.pdf)
 
+#### Math
+
+-[Linear algebra](http://immersivemath.com/ila/index.html)
+
 #### Machine learning tutorials and Guides
 
 -[Good doc on google coarses on ML and cloud](https://techdevguide.withgoogle.com/)
