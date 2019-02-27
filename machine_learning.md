@@ -12,7 +12,7 @@ Deep learning software
 
 -[Standford Deep learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/)
 
--[ML ](https://github.com/remicnrd/ml_cheatsheet)
+-[ML cheatsheet](https://github.com/remicnrd/ml_cheatsheet)
 
 -[ML myths](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/)
 
