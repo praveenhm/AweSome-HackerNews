@@ -1,3 +1,17 @@
+##Spark sequential vs paralled run,
+
+probesGroupby.map(_.toSeq.toArray).collect
+or if you prefer more explicit approach you can use pattern matching:
+
+rdd.map { case Row(idCounter, coMac, time, qtRssi, tTracks) => 
+    Array(idCounter, coMac, time, qtRssi, tTracks)
+} collect
+
+Well, difference is fundamental. 
+1)If you collect first and then map then everything is processed sequentially on a driver side. 
+2)When mapping first, and collecting afterwards creating arrays is done in parallel on the worker nodes and send to the driver.
+
+
 -[batch and streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 
 
