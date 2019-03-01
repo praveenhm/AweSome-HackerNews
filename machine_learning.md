@@ -56,6 +56,8 @@ Deep learning software
 
 #### Machine learning tutorials and Guides
 
+-[Machine learning for everyone](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
 -[Good doc on google coarses on ML and cloud](https://techdevguide.withgoogle.com/)
 
 -[Very good basic machine learning](https://vas3k.ru/blog/machine_learning/)
