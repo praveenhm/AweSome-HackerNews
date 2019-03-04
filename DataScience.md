@@ -1,4 +1,7 @@
 
+#### Python hands on
+
+-[python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ####Data scientiest courses
 
