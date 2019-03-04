@@ -2,6 +2,7 @@
 #### Python hands on
 
 -[python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+-[Python for Data Analysis" by Wes McKinney, published by O'Reilly Media](https://github.com/wesm/pydata-book)
 
 ####Data scientiest courses
 
