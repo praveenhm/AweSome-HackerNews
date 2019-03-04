@@ -58,6 +58,8 @@ Deep learning software
 
 -[Machine learning for everyone](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
+-[Machine learning for humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+
 -[Good doc on google coarses on ML and cloud](https://techdevguide.withgoogle.com/)
 
 -[Very good basic machine learning -russian guy](https://vas3k.com/blog/machine_learning/)
