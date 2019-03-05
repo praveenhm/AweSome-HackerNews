@@ -64,6 +64,8 @@ Deep learning software
 
 -[Very good basic machine learning -russian guy](https://vas3k.com/blog/machine_learning/)
 
+-[Best of machine learning](http://bestofml.com/)
+
 -[Top ten ml algorithms](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 
 -[Facebook machine learning videos](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
