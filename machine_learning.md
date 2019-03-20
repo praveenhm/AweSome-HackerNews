@@ -149,6 +149,9 @@ Hadoop, bigdata blog
 - [Machine learning](https://news.ycombinator.com/item?id=8061628)
 
 #### Data set
+
+-[Big dataset list](https://www.datasetlist.com/)
+-[reddit dataset](https://www.reddit.com/r/datasets/comments/65o7py/updated_reddit_comment_dataset_as_torrents/)
 -[Yahoo M/C dataset news feed](http://yahoolabs.tumblr.com/post/137281912191/yahoo-releases-the-largest-ever-machine-learning)
 -[Direct link to data set](http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75)
 
