@@ -58,6 +58,8 @@ Deep learning software
 
 #### Machine learning tutorials and Guides
 
+-[TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..index#0)
+
 -[Machine learning for everyone](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 -[Machine learning for humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
