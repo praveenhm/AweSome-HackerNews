@@ -29,6 +29,8 @@ Deep learning software
 
 -[hacker guide to neural network](http://karpathy.github.io/neuralnets/)
 
+-[Deep learning](https://www.xenonstack.com/blog/log-analytics-deep-machine-learning-ai/)
+
 #### Deep learning coarse ####
 -[Berkely deep learning](http://d2l.ai/chapter_introduction/index.html)
 
