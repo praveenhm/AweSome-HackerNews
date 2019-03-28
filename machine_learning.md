@@ -56,6 +56,8 @@ Deep learning software
 
 -[Linear algebra](http://immersivemath.com/ila/index.html)
 
+-[Basic statistics](https://lindeloev.github.io/tests-as-linear/)
+
 #### Machine learning tutorials and Guides
 
 -[TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..index#0)
