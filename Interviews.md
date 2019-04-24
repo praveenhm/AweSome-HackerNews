@@ -95,6 +95,8 @@ The first section is about how Venn works fine for AND and OR because it’s set
 
 -[How to interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)
 
+-[How to ace the google interview](https://www.byte-by-byte.com/google-interview/)
+
 #### Interview
 
 -[Common data structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
