@@ -6,6 +6,10 @@ Deep learning software
 * Keras
 * Sonnet (deepmind)
 
+#### Jupyter Notebook
+
+-[Write a blog from jyputer notebook](https://github.com/hemanta212/blogger-cli)
+
 ######cheat sheet #########
 
 -[Standford machine learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
