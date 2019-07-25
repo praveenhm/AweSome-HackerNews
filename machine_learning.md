@@ -38,6 +38,8 @@ Deep learning software
 #### Deep learning coarse ####
 -[Berkely deep learning](http://d2l.ai/chapter_introduction/index.html)
 
+-[Good blog on DeepLearning](https://victorzhou.com/tag/machine-learning/)
+
 #### Software #########
 
 -[effective tensor flow](https://github.com/vahidk/EffectiveTensorflow?)
