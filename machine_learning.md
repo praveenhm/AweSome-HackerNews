@@ -174,3 +174,5 @@ Hadoop, bigdata blog
 #### Deep Learning
 
 -[Google deep learning tutorial](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
+-[Google brain engineer entering AI](https://80000hours.org/articles/ml-engineering-career-transition-guide/)
