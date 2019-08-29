@@ -41,7 +41,7 @@ Deep learning software
 -[Good blog on DeepLearning](https://victorzhou.com/tag/machine-learning/)
 
 #### Deep learning tuotrials 
--(Google deep learning decks)[https://docs.google.com/presentation/d/1uYSM7hR8H6aNv6hGkzfS05ojQiuVOgnq5ASLpGy8IGk/edit#slide=id.g249ebeb2f6_0_382]
+-(Google deep learning decks)[https://docs.google.com/presentation/d/1uYSM7hR8H6aNv6hGkzfS05ojQiuVOgnq5ASLpGy8IGk/edit#slide=id.p]
 
 #### Software #########
 
