@@ -1,0 +1,57 @@
+ML_analysis
+
+why model was chosen, 
+why features matters - 
+are you grading this automatically
+
+- choosing the right input data (rather relying on regularisation)
+  - figuring out what the consequences are if you're wrong in a specific way, and avoiding the bad cases
+  - wrangling your data into a nice CSV format
+  - handling missing data
+  - spotting biases in your data collection methodology
+
+Here are the sorts of things I look for. Do they understand:
+
+1. How to verify & validate data, clean inputs, handle coding errors and ELT type issues
+
+2. How to evaluate data set issues like bias, missing data and outliers, and account for that (and when you can't)
+
+3. (situational) How their infrastructure works an what they need it to do (e.g. for distributed training, if appropriate). How to use it effectively.
+
+4. How to control data and code throughout lifecycle, so you don't waste time and experiments
+
+5. How to choose between approaches and models
+
+6. How to evaluate performance rigorously
+
+7. How to monitor performance over time
+
+but here is the kicker
+
+8. How do you know you are trying to solve the right problem?
+
+For junior people, the emphasis will be on the earlier points. For senior people the last point is key.
+
+Your question partially addresses some of the early points only.
+
+Off the top of my head suggestions.
+
+- Have separate stages. Cleanup & verification can have objective and subjective issues (missing & corrupt data? Outliers?)
+
+- Don't focus too much on modeling, it's the least interesting part.
+
+- Allow different toolsets possibly (e.g. R)
+
+- Initial cleanup/eval stage on a CSV, but following stage pull from SQL?
+
+- Possibly allow multiple inference choices from same or a few data sets. Give a short list of things the "business" is interested in, they pick and describe why
+
+- good idea to focus a bit on producing one/two graphics/tables to communicate to a lay audience.
+
+- more focus on verification
+
+- add a validation discussion requirement. How are you going to know what you did is worth doing?
+
+- add a "next things I would try/do"
+
+The latter is going to be text heavy but no way to avoid this unless there is a follow on voice/personal interview.
