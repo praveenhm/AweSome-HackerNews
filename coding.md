@@ -1,3 +1,6 @@
+#### coding standards
+-[Google coding standards](https://github.com/google/eng-practices)
+
 
 ######shortcuts,
 
