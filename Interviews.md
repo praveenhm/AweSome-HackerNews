@@ -7,6 +7,9 @@
 
 -[Sorting algorithm](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)
 
+#### Non-technical questions
+
+-[Non technical questions](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 
 #### general
 
