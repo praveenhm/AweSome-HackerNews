@@ -43,6 +43,8 @@ Deep learning software
 #### Deep learning tuotrials 
 -(Google deep learning decks)[https://docs.google.com/presentation/d/1uYSM7hR8H6aNv6hGkzfS05ojQiuVOgnq5ASLpGy8IGk/edit#slide=id.p]
 
+-[Deep learning blog](https://blog.floydhub.com/)
+
 #### Software #########
 
 -[effective tensor flow](https://github.com/vahidk/EffectiveTensorflow?)
