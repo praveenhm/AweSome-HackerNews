@@ -40,6 +40,8 @@ Deep learning software
 
 -[Good blog on DeepLearning](https://victorzhou.com/tag/machine-learning/)
 
+-[Andrew trask blog](https://iamtrask.github.io)
+
 #### Deep learning tuotrials 
 -(Google deep learning decks)[https://docs.google.com/presentation/d/1uYSM7hR8H6aNv6hGkzfS05ojQiuVOgnq5ASLpGy8IGk/edit#slide=id.p]
 
