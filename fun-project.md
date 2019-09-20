@@ -58,6 +58,10 @@
 
 -[Reditt-body building](https://www.reddit.com/r/Fitness/wiki/index)
 
+### Photos
+
+-[AI generated photos](https://generated.photos/)
+
 
 ### This is fun project page,
 
