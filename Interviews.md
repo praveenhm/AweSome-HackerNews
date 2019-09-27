@@ -1,4 +1,7 @@
 
+#### behavioral questions
+-[behavioral](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
+
 #### Job site
 
 -[best job site for software engineers in startup](https://triplebyte.com/)
