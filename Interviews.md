@@ -2,6 +2,8 @@
 #### behavioral questions
 -[behavioral](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 
+-[Firebase interview style](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/?1)
+
 #### Job site
 
 -[best job site for software engineers in startup](https://triplebyte.com/)
