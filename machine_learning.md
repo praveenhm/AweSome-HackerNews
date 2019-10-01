@@ -65,6 +65,8 @@ Deep learning software
 
 -[great bayes notes](http://supportvectors.com/pdfdocs/great-bayes-notes.pdf)
 
+-[ML in 100 days](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
 #### Math
 
 -[Linear algebra](http://immersivemath.com/ila/index.html)
