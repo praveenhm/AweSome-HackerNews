@@ -73,6 +73,10 @@ Deep learning software
 
 -[Basic statistics](https://lindeloev.github.io/tests-as-linear/)
 
+#### ML interview
+
+-[preparing for datascience](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
+
 #### Machine learning tutorials and Guides
 
 -[TensorFlow and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..index#0)
