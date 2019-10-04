@@ -10,7 +10,9 @@ Deep learning software
 
 -[Write a blog from jyputer notebook](https://github.com/hemanta212/blogger-cli)
 
-######cheat sheet #########
+#### cheat sheet #########
+
+-[flash cards](https://chrisalbon.com/)
 
 -[Standford machine learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
 
