@@ -1,3 +1,16 @@
+### FAANG prep
+
+[0] - https://cstheory.stackexchange.com/questions/19759/core-algo...
+
+[1] - http://courses.csail.mit.edu/6.851/
+
+[2] - http://jeffe.cs.illinois.edu/teaching/algorithms/
+
+[3] - http://cp-algorithms.com/
+
+[4] - https://concatenative.org/wiki/view/Exotic%20Data%20Structur...
+
+If you really don't know where to start, you can search and pick a specific topic here to study it in depth: https://github.com/jwasham/coding-interview-university
 
 #### behavioral questions
 -[behavioral](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
