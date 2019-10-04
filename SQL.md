@@ -8,6 +8,8 @@
 
 -[Sql tutorial](https://selectstarsql.com/)
 
+-[sql dont start with select](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+
 
 
 #### sql
