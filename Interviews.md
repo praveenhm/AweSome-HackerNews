@@ -12,6 +12,10 @@
 
 If you really don't know where to start, you can search and pick a specific topic here to study it in depth: https://github.com/jwasham/coding-interview-university
 
+Mock interview:
+
+There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingInterview.com t
+
 #### behavioral questions
 -[behavioral](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 
