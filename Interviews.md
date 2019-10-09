@@ -125,6 +125,8 @@ The first section is about how Venn works fine for AND and OR because it’s set
 
 #### Interview
 
+-[Sorting in python](https://skerritt.blog/timsort-the-fastest-sorting-algorithm-youve-never-heard-of/)
+
 -[How to interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)
 
 -[How to ace the google interview](https://www.byte-by-byte.com/google-interview/)
