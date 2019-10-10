@@ -2,9 +2,7 @@
 
 Deep learning software
 * PyTorch (popular than TF) 
-* TensorFlow
-* Keras
-* Sonnet (deepmind)
+* TensorFlow/Keras
 
 #### Jupyter Notebook
 
@@ -43,6 +41,9 @@ Deep learning software
 -[Good blog on DeepLearning](https://victorzhou.com/tag/machine-learning/)
 
 -[Andrew trask blog](https://iamtrask.github.io)
+
+-[deeplearning on images blog](https://chsasank.github.io/archive/)
+
 
 #### Deep learning tuotrials 
 -(Google deep learning decks)[https://docs.google.com/presentation/d/1uYSM7hR8H6aNv6hGkzfS05ojQiuVOgnq5ASLpGy8IGk/edit#slide=id.p]
