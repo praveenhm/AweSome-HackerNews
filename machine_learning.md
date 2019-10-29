@@ -46,6 +46,12 @@ Deep learning software
 
 -[Standford CNN for image](http://cs231n.github.io/)
 
+#### Statistics
+
+-[online statistics books](http://davidmlane.com/hyperstat/index.html)
+
+-[Little handbook of statics](http://www.jerrydallal.com/LHSP/LHSP.htm)
+
 #### Deep learning tuotrials 
 -(Google deep learning decks)[https://docs.google.com/presentation/d/1uYSM7hR8H6aNv6hGkzfS05ojQiuVOgnq5ASLpGy8IGk/edit#slide=id.p]
 
