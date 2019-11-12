@@ -1,9 +1,11 @@
 
 #### 
 -[when data doesn't fit in memory](https://pythonspeed.com/articles/data-doesnt-fit-in-memory/)
+
 -[follow up comment](https://news.ycombinator.com/item?id=21508542)
 
 -[python development environment](https://jacobian.org/2019/nov/11/python-environment-2020/#atom-entries)
+
 -[followup comment](https://news.ycombinator.com/item?id=21510262)
 
 ###########BI/Analytics ##########
