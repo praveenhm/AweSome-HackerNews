@@ -79,6 +79,9 @@ Deep learning software
 
 #### Math
 
+- [Interactive linear algebra](https://textbooks.math.gatech.edu/ila/)
+- [immersive linear algebra](http://immersivemath.com/ila/index.html)
+
 -[Linear algebra](http://immersivemath.com/ila/index.html)
 
 -[Basic statistics](https://lindeloev.github.io/tests-as-linear/)
