@@ -24,6 +24,9 @@ Deep learning software
 -[ML myths](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/)
 
 ######
+
+- [practical ai from google](https://practicalai.me/)
+
 -[Roadmap for study and learning](https://github.com/astorfi/TensorFlow-Roadmap)
 
 -[Deep learning for coders](https://www.fast.ai/2019/01/24/course-v3/)
