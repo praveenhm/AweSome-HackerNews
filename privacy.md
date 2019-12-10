@@ -9,6 +9,8 @@
 
 -[Facebook privacy](http://paul.henrich.me/posts/2015/02/facing-facebook.html)
 
+-[digital rights online](https://yourdigitalrights.org/)
+
 
 #### Privacy to devices
 
