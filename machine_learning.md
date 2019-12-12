@@ -2,10 +2,7 @@
 - [End to end machine learning](https://ahmedbesbes.com/end-to-end-ml.html)
 
 ##### Deep Learning #####
-
-Deep learning software
-* PyTorch (popular than TF) 
-* TensorFlow/Keras
+-[Deep learning explained](https://www.lyrn.ai/)
 
 #### Jupyter Notebook
 
