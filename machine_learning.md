@@ -8,6 +8,11 @@
 
 -[Write a blog from jyputer notebook](https://github.com/hemanta212/blogger-cli)
 
+#### ArXiv
+
+-[arxiv monitor](http://arxiv.aiindex.org/)
+-[arXiv monitor](https://paperswithcode.com/sota)
+
 #### cheat sheet #########
 
 -[flash cards](https://chrisalbon.com/)
