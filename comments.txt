@@ -1,3 +1,10 @@
+### email
+
+Sorry you've been fighting this. We're actively working on the documentation as well as improving the setup workflows for Actions which should alleviate lots of this pain.
+Those one line snippets are likely going to be taken down, most systems are too complicated for those to work. It looks nice for a couple package systems but that Maven one is obviously flawed.
+
+I'd be happy to help you dig through whatever you're trying to do; I'm @clarkbw on twitter. I'd also love another set of eyes on the changes to the setup-java action, specifically getting Maven authentication to work well.
+
 ##### quit ##########
 As you may know, today is the last day for me here at xxxxx. 
 I would like to thank each and every one for your support and encouragement during my tenure.
