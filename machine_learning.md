@@ -7,6 +7,7 @@
 #### Jupyter Notebook
 
 -[Write a blog from jyputer notebook](https://github.com/hemanta212/blogger-cli)
+-[List of free resource for ML](https://www.marktechpost.com/free-resources/)
 
 #### ArXiv
 
