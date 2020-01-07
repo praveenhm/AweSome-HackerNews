@@ -39,6 +39,8 @@
 
 ### Neural network ###
 
+-[google machine learning guide](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
 -[hacker guide to neural network](http://karpathy.github.io/neuralnets/)
 
 -[Deep learning](https://www.xenonstack.com/blog/log-analytics-deep-machine-learning-ai/)
