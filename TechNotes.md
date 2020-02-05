@@ -15,6 +15,13 @@ Well, difference is fundamental.
 -[batch and streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 
 
+## large scale 
+
+Scaling to 100k users(https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+That seems pretty aggressive for just 100k users unless they mean concurrent users (in which case they should say so).
+
+Let's say that maybe 10% of your users are on at any given time and they each may make 1 request a minute. That's under 200 QPS which a single server running a half-decent stack should be able to handle fine. 
+
 ###Spark vs Flink
 
 Both tools are receiving wide adoption, with an edge to Spark for batch/bounded processing, and to Flink for 
