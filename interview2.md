@@ -18,3 +18,8 @@ Having looked at a lot of these things, here's the criteria I use to evaluate th
 5/ Can I model joins?
 6/ Does it support dashboard-wide filters?
 7/ Does it support complex time comparisons?
+
+
+#####Scalability:
+
+-[Scaling to 100k users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
