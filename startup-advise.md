@@ -12,6 +12,9 @@
 
 -[Free photos](https://unsplash.com/collections)
 
+#### Startup advice
+
+-[Startup adivice](https://www.joisig.com/rules-software-startup-minimum-hassle)
 
 #######startup ########
 
