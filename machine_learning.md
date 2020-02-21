@@ -90,6 +90,8 @@
 
 #### Math
 
+-[MIT course on Linear algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+
 - [Interactive linear algebra](https://textbooks.math.gatech.edu/ila/)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
 
