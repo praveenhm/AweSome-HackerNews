@@ -1,3 +1,7 @@
+#### Stocks, grants, RSU
+
+-[A guide to stocks grants](https://github.com/jlevy/og-equity-compensation)
+
 ##### static web site
 -[free static web site](https://www.netlify.com/pricing/)
 
