@@ -16,6 +16,12 @@ Mock interview:
 
 There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingInterview.com t
 
+### Google
+
+-[Google interview process](https://habr.com/en/post/489698/)
+-[follow up comment](https://news.ycombinator.com/item?id=22405372)
+
+
 #### behavioral questions
 -[behavioral](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 
