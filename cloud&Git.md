@@ -1,5 +1,9 @@
 #### AWS,
 
+-[The good parts of AWS](https://hassenchaieb.com/aws-good-parts/)
+
+-[follow-up comments](https://news.ycombinator.com/item?id=22608106)
+
 -[AWS and GCP comparison](https://metamarkets.com/2017/big-cloud-data-aws-and-gcp/)
 
 -[Cloud comparison AWS google microsoft](https://www.arador.com/ridiculous-bandwidth-costs-amazon-google-microsoft/)
