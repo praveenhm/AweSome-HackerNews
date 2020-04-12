@@ -1,3 +1,8 @@
+
+How to Speak:
+
+[How to speak](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
+
 youtube
 http://www.youtube.com/watch?v=qyDb7bag9YI&list=RD02NoXf5ZKCvVE
 
