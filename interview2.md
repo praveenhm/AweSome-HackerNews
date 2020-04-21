@@ -1,4 +1,8 @@
 
+#### System design
+
+-[system design ](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)
+
 #### 
 -[when data doesn't fit in memory](https://pythonspeed.com/articles/data-doesnt-fit-in-memory/)
 
