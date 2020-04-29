@@ -18,6 +18,8 @@
 
 #### Startup advice
 
+-[Product hunt](https://www.producthunt.com/)
+
 -[Startup adivice](https://www.joisig.com/rules-software-startup-minimum-hassle)
 
 #######startup ########
