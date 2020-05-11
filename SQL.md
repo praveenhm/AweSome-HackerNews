@@ -1,3 +1,6 @@
+#### SQL
+
+[SQL interal explained](https://use-the-index-luke.com/)
 
 ##### DB 
 
