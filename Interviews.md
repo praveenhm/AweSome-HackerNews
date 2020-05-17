@@ -93,6 +93,8 @@ There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingIntervi
 
 -[RDBMS columar vs row ](http://dbmsmusings.blogspot.com/2017/10/apache-arrow-vs-parquet-and-orc-do-we.html)
 
+-[SQL performance explained](https://use-the-index-luke.com/sql/preface)
+
 Database-performance-tricks
 These three data warehouses undoubtedly use the standard performance tricks: columnar storage, cost-based query planning, pipelined execution, and just-in-time compilation
 
