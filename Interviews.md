@@ -1,3 +1,17 @@
+#### Interview prep:
+
+##Coding:
+
+- [interviews](https://github.com/kdn251/interviews) - Everything about Interviews:
+- [algorithm](https://github.com/TheAlgorithms/Java)  - Algorithms in Java:
+- [leetcode](https://github.com/gouthampradhan/leetcode)  - leetcode in java:
+- [java design](https://github.com/iluwatar/java-design-patterns) -   Java design pattersn:
+- [system design](https://github.com/shashank88/system_design) -   System design:
+
+
+
+
+
 ### FAANG prep
 
 [0] - https://cstheory.stackexchange.com/questions/19759/core-algo...
