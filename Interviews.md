@@ -5,6 +5,7 @@
 - [interviews](https://github.com/kdn251/interviews) - Everything about Interviews:
 - [algorithm](https://github.com/TheAlgorithms/Java)  - Algorithms in Java:
 - [leetcode](https://github.com/gouthampradhan/leetcode)  - leetcode in java:
+- [Algorithms william](https://github.com/williamfiset/Algorithms) - Algorithms in java
 - [java design](https://github.com/iluwatar/java-design-patterns) -   Java design pattersn:
 - [system design](https://github.com/shashank88/system_design) -   System design:
 
