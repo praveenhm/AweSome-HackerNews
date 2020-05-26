@@ -1,5 +1,7 @@
 #### AWS,
 
+-[AWS service explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html)
+
 -[The good parts of AWS](https://hassenchaieb.com/aws-good-parts/)
 
 -[follow-up comments](https://news.ycombinator.com/item?id=22608106)
