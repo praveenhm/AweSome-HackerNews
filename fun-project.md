@@ -111,3 +111,9 @@
 #### Weight Gain
 
 -[weight gain](http://matt.might.net/articles/hacking-strength/)
+
+
+### Rockets
+
+-[About rockets](https://yasoob.me/posts/software_engineering_within_spacex_launch/)
+-[Model rockets](https://bps.space/)
