@@ -8,8 +8,7 @@
 - [Algorithms william](https://github.com/williamfiset/Algorithms) - Algorithms in java
 - [java design](https://github.com/iluwatar/java-design-patterns) -   Java design pattersn:
 - [system design](https://github.com/shashank88/system_design) -   System design:
-
-
+- [Algorithsms and DataStructure in real work](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
 
 
