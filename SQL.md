@@ -21,3 +21,7 @@
 These data warehouses undoubtedly use the standard performance tricks: columnar storage, cost-based query planning, pipelined execution, and just-in-time compilation.
 
 -[Paid SQL tutorail $49 ](https://www.masterywithsql.com/)
+
+#### PostgresSQL
+
+-[Postgresql tutorial](https://knowledgepill.it/posts/postgresql-basics-guide/)
