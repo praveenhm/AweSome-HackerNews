@@ -1,3 +1,6 @@
+#### Y combinator
+-[Y startup school library the best for startup](https://www.ycombinator.com/library)
+
 #### Stocks, grants, RSU
 
 -[A guide to stocks grants](https://github.com/jlevy/og-equity-compensation)
