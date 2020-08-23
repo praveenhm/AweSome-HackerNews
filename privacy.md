@@ -1,5 +1,6 @@
 
 #### Privacy
+-[degoogle privacy](https://degoogle.jmoore.dev/)
 
 -[Restore privacy](https://restoreprivacy.com/)
 
