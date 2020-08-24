@@ -21,6 +21,8 @@
 
 #### Startup advice
 
+-[Career Advice on multiple skills](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
+
 -[Product hunt](https://www.producthunt.com/)
 
 -[Startup adivice](https://www.joisig.com/rules-software-startup-minimum-hassle)
