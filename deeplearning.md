@@ -4,3 +4,7 @@
 -[list of ML resources](https://github.com/melling/MathAndScienceNotes/blob/master/machine_learning.md)
 
 -[catalyze index for AI papers](https://www.catalyzex.com/)
+
+###Hardware
+
+-[Best Nvidia cards](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/)
