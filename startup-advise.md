@@ -10,6 +10,11 @@
 
 -[follow up ](https://news.ycombinator.com/item?id=15755768)
 
+#### Startup AI companies
+
+-[AI startuo ](https://depict.ai/)
+-[Product hunt](https://www.producthunt.com/)
+
 #### Maping solutions
 -[geo location](https://opencagedata.com/pricing)
 -[cheaper alternative to goolemaps, stadia](https://stadiamaps.com/)
