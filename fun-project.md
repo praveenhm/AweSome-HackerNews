@@ -4,6 +4,12 @@
 
 -[follow up comment](https://news.ycombinator.com/item?id=19162382)
 
+### browser extensio
+
+-[browser extension ](https://blog.maskys.com/my-best-chrome-extensions/)
+
+-[degoogle](https://degoogle.jmoore.dev/)
+
 ### 
 
 -[Build a purifier](https://www.uofmhealth.org/news/sinus-hepa-0630)
