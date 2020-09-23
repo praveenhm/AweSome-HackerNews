@@ -10,6 +10,10 @@
 
 -[degoogle](https://degoogle.jmoore.dev/)
 
+### Mental, health
+
+-[Mental wiki](http://www.ludism.org/mentat/)
+
 ### fun
 
 -[Build a purifier](https://www.uofmhealth.org/news/sinus-hepa-0630)
