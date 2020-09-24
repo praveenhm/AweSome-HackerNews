@@ -1,4 +1,8 @@
 
+#### Numpy
+
+-[NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+-[Numpy tutorial in Nature](https://www.nature.com/articles/s41586-020-2649-2)
 
 #### Python hands on
 
