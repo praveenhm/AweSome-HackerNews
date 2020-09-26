@@ -8,3 +8,5 @@
 ### Github
 -[First order motion model](https://github.com/AliaksandrSiarohin/first-order-model)
 
+-[Ultraligth face detection](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
+
