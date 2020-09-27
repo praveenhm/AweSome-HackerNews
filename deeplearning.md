@@ -1,3 +1,6 @@
+### Tutorial
+
+-[Best deep learning tutorial](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
 
 -[MIT 2020 deep learning ](http://introtodeeplearning.com/)
 
