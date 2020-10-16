@@ -4,4 +4,4 @@
 
 ### NLP
 
--[Ilistrated guide to Transformer](https://www.youtube.com/watch?v=4Bdc55j80l8)
+-[Illustrated guide to Transformer](https://www.youtube.com/watch?v=4Bdc55j80l8)
