@@ -1,5 +1,7 @@
 #### Deep learning tutorials
 
+-[One of the best blog on deeplearing](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
+
 ### CNN
 
 ### NLP
