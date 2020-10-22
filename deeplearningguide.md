@@ -2,6 +2,8 @@
 
 -[One of the best blog on deeplearing](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
 
+-[deep learning blog Autoencoders](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+
 ### CNN
 
 ### NLP
