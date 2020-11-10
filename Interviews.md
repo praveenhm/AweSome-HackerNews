@@ -132,12 +132,16 @@ The first section is about how Venn works fine for AND and OR because it’s set
 
 
 #### regex
+-[visual regex](https://amitness.com/regex/)
+
 -[regex tutorial](http://www.rexegg.com/)
 
-
 -[learn regex](https://github.com/zeeshanu/learn-regex)
+
 -[regex testing](http://www.regexplanet.com/)
+
 -[regex testing](http://regexr.com/)
+
 -[regex 101](https://regex101.com/)
 
 
