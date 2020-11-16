@@ -24,4 +24,6 @@ These data warehouses undoubtedly use the standard performance tricks: columnar 
 
 #### PostgresSQL
 
+-[psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/)
+
 -[Postgresql tutorial](https://knowledgepill.it/posts/postgresql-basics-guide/)
