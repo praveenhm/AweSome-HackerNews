@@ -2,7 +2,7 @@
 
 -[Kubernetes UI](https://k8slens.dev/)
 
--[Kubernetes UI]()(https://github.com/kinvolk/headlamp)
+-[Kubernetes UI](https://github.com/kinvolk/headlamp)
 
 
 #### sync
