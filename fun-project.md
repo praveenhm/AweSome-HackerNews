@@ -4,6 +4,9 @@
 
 -[follow up comment](https://news.ycombinator.com/item?id=19162382)
 
+### camera
+-[camera and lenses](https://ciechanow.ski/cameras-and-lenses/)
+
 ### browser extensio
 
 -[browser extension ](https://blog.maskys.com/my-best-chrome-extensions/)
