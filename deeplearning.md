@@ -10,6 +10,10 @@
 
 -[catalyze index for AI papers](https://www.catalyzex.com/)
 
+#### Videos
+
+-[Latest tech research video](https://crossminds.ai/explore/)
+
 ###Hardware
 
 -[Best Nvidia cards](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/)
