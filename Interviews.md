@@ -24,6 +24,8 @@
 
 [4] - https://concatenative.org/wiki/view/Exotic%20Data%20Structur...
 
+[5] - (https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d)
+
 If you really don't know where to start, you can search and pick a specific topic here to study it in depth: https://github.com/jwasham/coding-interview-university
 
 ### System design interview
