@@ -35,6 +35,10 @@ If you really don't know where to start, you can search and pick a specific topi
 
 There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingInterview.com t
 
+### Data engineer
+ -[How to become data engineer 2020](https://khashtamov.com/en/how-to-become-a-data-engineer/)
+
+-[follow up comments](https://news.ycombinator.com/item?id=25728198)
 ### Google
 
 -[Google interview process](https://habr.com/en/post/489698/)
