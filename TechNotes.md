@@ -1,3 +1,18 @@
+#Bloom Filters
+They are an efficient implementation of a Set that contains hashes of the elements.
+bloomfilter.add("foo") will internally add hash("foo") to the Set
+bloomfilter.has("foo") checks if the Set contains hash("foo")
+False positives arise due to different elements hashing to the same hash. If "foo" and "bar" hash to the same value, bloomfilter.has("bar") would return true.
+No false negatives are possible.
+They are used when an actual check for an element in a datastructure is quite costly and the hitrate for not-in-the-datastructure is non-trivial and can therefor be skipped if the bloomfilter gives a negative.
+
+It's indeed not a list of hashes but a set of hashes. Usuaully the size of the set is static and determined when creating the bloom filter (how many bits in the bitmap). The hashes are not full blown hashes like a sha1 sum or similar but a bit (or a few) in the bitmap. You only add to the set and never remove. The bitwise or-ing with the stored value is the mentioned hash collision and just an implementation detail. It's still a set of hashes.
+"unrelated hashes turning on enough bits for a match" is the case of hash collisions or I am misunderstanding that part.
+
+
+
+
+
 ##Spark sequential vs paralled run,
 
 probesGroupby.map(_.toSeq.toArray).collect
