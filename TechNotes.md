@@ -1,4 +1,5 @@
-#Bloom Filters
+##Bloom Filters
+
 They are an efficient implementation of a Set that contains hashes of the elements.
 bloomfilter.add("foo") will internally add hash("foo") to the Set
 bloomfilter.has("foo") checks if the Set contains hash("foo")
