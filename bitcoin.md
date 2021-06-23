@@ -2,6 +2,8 @@
 
 ######Bitcoin ############
 
+-[Bitcon bascics](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
+
 -[Building for Blockchain](http://blog.ycombinator.com/building-for-the-blockchain/)
 
 
