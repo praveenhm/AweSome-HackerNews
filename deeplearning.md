@@ -10,6 +10,8 @@
 
 -[catalyze index for AI papers](https://www.catalyzex.com/)
 
+-[Colah's blog on neralnet](https://colah.github.io/)
+
 #### Videos
 
 -[Latest tech research video](https://crossminds.ai/explore/)
