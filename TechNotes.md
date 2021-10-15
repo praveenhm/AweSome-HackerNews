@@ -1,4 +1,13 @@
-##Bloom Filters
+
+### Kubernetes
+
+Kubernetes is actually quite easy to master for simple use cases. And affordable enough for more complex ones.
+The fundamental abstractions are as simple as they can be, representing concepts that you'd already be familiar with in a datacenter environment. 
+A cluster has nodes (machines), and you can run multiple pods (which is the smallest deployable unit on the cluster) on each node. A pod runs various types of workloads such as web services, daemons, jobs and recurring jobs which are made available (to the cluster) as docker/container images. You can attach various types of storage to pods, front your services with load-balancers etc.
+
+All of the nouns in the previous paragraph are available as building blocks in Kubernetes. You build your complex system declaratively from these simpler parts.
+
+###Bloom Filters
 
 They are an efficient implementation of a Set that contains hashes of the elements.
 bloomfilter.add("foo") will internally add hash("foo") to the Set
