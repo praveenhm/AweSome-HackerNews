@@ -63,6 +63,7 @@ There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingIntervi
 -[Non technical questions](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 
 #### general
+-[Microservice architecture](https://news.ycombinator.com/item?id=29294267)
 
 -[Software Architecuture guide](https://martinfowler.com/architecture/)
 
