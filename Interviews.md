@@ -62,6 +62,9 @@ There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingIntervi
 
 -[Non technical questions](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
 
+### DB
+-[Database comparison](https://ottertune.com/blog/2021-databases-retrospective/)
+
 #### general
 -[Microservice architecture](https://news.ycombinator.com/item?id=29294267)
 
