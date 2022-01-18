@@ -4,6 +4,8 @@
 
 -[deep learning blog Autoencoders](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 
+-[Jonathan deep learning article on Medium](https://jonathan-hui.medium.com/)
+
 ### CNN
 
 ### NLP
