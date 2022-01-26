@@ -159,6 +159,8 @@ The first section is about how Venn works fine for AND and OR because it’s set
 
 -[regex 101](https://regex101.com/)
 
+-[regex debugger](https://www.debuggex.com/)
+
 
 #### Algorithms
 -[Trees algorithm](https://sadanand-singh.github.io/posts/treebasedmodels/#.WXT8Kli2pUw.hackernews)
