@@ -20,7 +20,9 @@ They are used when an actual check for an element in a datastructure is quite co
 It's indeed not a list of hashes but a set of hashes. Usuaully the size of the set is static and determined when creating the bloom filter (how many bits in the bitmap). The hashes are not full blown hashes like a sha1 sum or similar but a bit (or a few) in the bitmap. You only add to the set and never remove. The bitwise or-ing with the stored value is the mentioned hash collision and just an implementation detail. It's still a set of hashes.
 "unrelated hashes turning on enough bits for a match" is the case of hash collisions or I am misunderstanding that part.
 
+Lets you test if a value is definitely NOT in a list of pre-stored values (or POSSIBLY in a list - with adjustable probability that influences storage of the values.)
 
+Good use-case: routing. Say you have a list of 1 million IPs that are black listed. A trivial algorithm would be to compare every element of the set with a given IP. The time complexity grows with the number of elements. Not so with a bloom filter! A bloom filter is one of the few data structures whose time complexity does not grow with the number of elements due to the 'keys' not needing to be stored ('search' and 'insert' is based on the number of hash functions.)
 
 
 
