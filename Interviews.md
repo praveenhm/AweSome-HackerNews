@@ -33,6 +33,8 @@ If you really don't know where to start, you can search and pick a specific topi
 
 -[Good Architecture notes:](https://architecturenotes.co/)
 
+-[follow up HacherNews](https://news.ycombinator.com/item?id=32426879)
+
 ###Mock interview:
 
 There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingInterview.com t
