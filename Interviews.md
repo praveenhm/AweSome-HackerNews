@@ -31,6 +31,8 @@ If you really don't know where to start, you can search and pick a specific topi
 ### System design interview
 -[System design interview questions](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
 
+-[Good Architecture notes:](https://architecturenotes.co/)
+
 ###Mock interview:
 
 There are mock interview sites, like Pramp.com, Gianlo.co, PracticeCodingInterview.com t
