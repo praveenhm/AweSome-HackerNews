@@ -8,7 +8,7 @@ A cluster has nodes (machines), and you can run multiple pods (which is the smal
 
 All of the nouns in the previous paragraph are available as building blocks in Kubernetes. You build your complex system declaratively from these simpler parts.
 
-###Bloom Filters
+### Bloom Filters
 
 They are an efficient implementation of a Set that contains hashes of the elements.
 bloomfilter.add("foo") will internally add hash("foo") to the Set
