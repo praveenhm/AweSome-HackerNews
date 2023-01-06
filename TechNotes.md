@@ -10,6 +10,29 @@ All of the nouns in the previous paragraph are available as building blocks in K
 
 ### Bloom Filters
 
+A Bloom filter is a probabilistic data structure that is used to test whether an element is a member of a set. It is a space-efficient data structure that allows for fast set membership tests, but it does not store the actual elements of the set. Instead, it stores a series of hash values that represent the elements of the set.
+
+The key feature of a Bloom filter is that it allows for fast set membership tests with a very low false positive rate. This means that when you ask the Bloom filter whether an element is in the set, it will almost always give you the correct answer. However, there is a small chance that it will give a false positive, meaning it will say that the element is in the set even if it is not.
+
+To use a Bloom filter, you first need to create it and specify the number of elements you expect it to hold and the false positive rate you are willing to accept. Then, you can add elements to the Bloom filter by hashing them and storing the resulting hash values. To test whether an element is in the set, you hash it and check whether the resulting hash values are present in the Bloom filter. If they are, then the element is probably in the set, but there is a chance it is a false positive.
+
+from pybloom_live import BloomFilter
+
+# Create a Bloom filter with a capacity of 100 elements and a false positive rate of 0.1%
+bf = BloomFilter(100, 0.001)
+
+# Add some elements to the Bloom filter
+bf.add("apple")
+bf.add("banana")
+bf.add("cherry")
+
+# Test membership of an element
+if "apple" in bf:
+    print("apple is probably in the set")
+else:
+    print("apple is definitely not in the set")
+
+
 They are an efficient implementation of a Set that contains hashes of the elements.
 bloomfilter.add("foo") will internally add hash("foo") to the Set
 bloomfilter.has("foo") checks if the Set contains hash("foo")
